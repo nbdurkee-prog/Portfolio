@@ -39,9 +39,9 @@ plugins:
 
 # Author Profile Settings
 author:
-  name   : "Nancy Durkee"
+  name   : "Nancy Durkee - Content Architect and Writer Passionate about Trustworthy Content & Responsible AI"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Content architect, passionate about trustworthy content and responsible AI. Blending my background in writing, education, AI, information architecture, and inclusive content design, I develop contextual knowledge experiences in products, and teach writers how to create semantically structured, trustworthy content."
+  bio    : "Content architect, passionate about trustworthy content and responsible AI. Blending my background in writing, education, AI, information architecture, and inclusive content design."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -70,8 +70,8 @@ defaults:
       path: "_pages"
       type: pages
     values:
-      layout: single
-      author_profile: true
+      layout: portfolio
+      author_profile: false
       toc: true
       toc_label: "On This Page"
       toc_sticky: true
@@ -81,5 +81,5 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-  
+   
 navigation: main       
