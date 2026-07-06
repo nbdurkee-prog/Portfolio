@@ -14,18 +14,16 @@
   box-sizing: border-box;
 }
 
-/* ===== AGGRESSIVE GLOBAL OVERRIDES ===== */
-html, body, .page, .page__inner-wrap, .page__content, .page-wrapper, main, .sidebar, .sidebar__right, .site-main, .splash, .layout {
-  background-color: var(--cream-color) !important;
-  background: var(--cream-color) !important;
-}
-
-/* Override all divs and containers that might have tan background */
-div[class*="page"] {
+/* ===== GLOBAL OVERRIDES ===== */
+html {
   background-color: var(--cream-color) !important;
 }
 
-/* Override Minimal Mistakes components */
+body {
+  background-color: var(--cream-color) !important;
+  color: var(--charcoal-color) !important;
+}
+
 .page {
   background-color: var(--cream-color) !important;
 }
@@ -34,19 +32,30 @@ div[class*="page"] {
   background-color: var(--cream-color) !important;
 }
 
+/* Minimal Mistakes page container */
 .page__content {
   background-color: var(--cream-color) !important;
 }
 
-main, #main {
+/* Main page wrapper */
+.page-wrapper {
+  background-color: var(--cream-color) !important;
+}
+
+main {
+  background-color: var(--cream-color) !important;
+}
+
+/* Override Minimal Mistakes sidebar and all containers */
+.sidebar {
+  background-color: var(--cream-color) !important;
+}
+
+.sidebar__right {
   background-color: var(--cream-color) !important;
 }
 
 .site-main {
-  background-color: var(--cream-color) !important;
-}
-
-.sidebar {
   background-color: var(--cream-color) !important;
 }
 
