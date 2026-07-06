@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="layout-container">
+  <nav class="sidebar-nav">
+    <h3>Portfolio</h3>
+    <ul>
+      <li><a href="{{ site.baseurl }}/" class="nav-link">Home</a></li>
+      <li><a href="{{ site.baseurl }}/about-me/" class="nav-link">About Me</a></li>
+      <li><a href="{{ site.baseurl }}/information-architecture/" class="nav-link">Information Architecture</a></li>
+      <li><a href="{{ site.baseurl }}/help-centers/" class="nav-link">Help Centers</a></li>
+      <li><a href="{{ site.baseurl }}/content-strategy/" class="nav-link">Content Strategy</a></li>
+    </ul>
+  </nav>
+
+  <main class="main-content">
+    {{ content }}
+  </main>
+</div>
+
+<style>
+  @import url("{{ site.baseurl }}/assets/css/custom.css");
+</style>
+
+<script>
+  // Highlight current page in sidebar
+  document.addEventListener('DOMContentLoaded', function() {
+    const currentPath = window.location.pathname;
+    const navLinks = document.querySelectorAll('.nav-link');
+    navLinks.forEach(link => {
+      if (link.getAttribute('href') === currentPath || 
+          (currentPath.includes(link.getAttribute('href')) && link.getAttribute('href') !== '{{ site.baseurl }}/')) {
+        link.classList.add('active');
+      }
+    });
+  });
+</script>
