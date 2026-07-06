@@ -362,3 +362,6 @@ blockquote {
   color: #666;
   font-style: italic;
 }
+.page__footer {
+  display: none;
+}
