@@ -1,7 +1,7 @@
 ---
 permalink: /about-me/
 title: "About Me"
-layout: portfolio
+layout: single
 author_profile: false
 ---
 
