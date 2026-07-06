@@ -1,10 +1,10 @@
 /* Nancy Durkee Portfolio - Custom Styling */
 
 :root {
-  --cream-color: #f8f8f8;
+  --cream-color: #fbfcf4;
   --charcoal-color: #2c2c2c;
   --black-color: #2a2a2a;
-  --accent-color: #9a9a9a;
+  --accent-color: #445e4f;
   --light-gray: #cfcfcf;
 }
 
@@ -362,6 +362,17 @@ blockquote {
   color: #666;
   font-style: italic;
 }
+
+/* ===== MINIMAL MISTAKES FOOTER OVERRIDE ===== */
 .page__footer {
-  background-color: #f8f8f8
+  background-color: var(--black-color) !important;
+  color: var(--cream-color) !important;
+}
+
+.page__footer a {
+  color: var(--cream-color) !important;
+}
+
+.page__footer a:hover {
+  color: var(--accent-color) !important;
 }
