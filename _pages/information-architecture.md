@@ -28,6 +28,25 @@ Whether it's a website hierarchy, an app's information flow, or a knowledge base
 ### 5. **Testing & Iteration**
 Good IA is validated with users. I conduct usability tests, gather feedback, and refine the structure based on real behavior and preferences.
 
+## DITA Content Lifecycle
+
+One powerful approach to managing complex, multi-audience documentation is using DITA (Darwin Information Typing Architecture). Here's how I orchestrate the content lifecycle:
+
+![DITA Content Lifecycle Workflow]({{ site.baseurl }}/assets/images/dita-workflow.svg)
+
+This workflow demonstrates:
+- **Authoring** in Ixia Web Author with DITA XML
+- **Metadata & Taxonomy** tagging for organization and filtering
+- **Processing** through DITA pipelines for consistency
+- **DITAVAL Filtering** to create audience-specific content
+- **Multiple outputs** from a single source of truth
+
+This approach is particularly valuable for organizations with:
+- Multiple product versions or platforms
+- Different audience levels (end users, administrators, developers)
+- Regulatory or compliance requirements
+- Multi-language documentation needs
+
 ## Key Projects
 
 **Enterprise Knowledge Base Restructuring**
@@ -46,6 +65,8 @@ Created the foundational IA for a new SaaS platform, including user workflows, c
 - Taxonomy development and management
 - Navigation design and prototyping
 - Analytics review and optimization
+- DITA XML authoring and publishing
+- DITAVAL filtering for multi-audience content
 
 ---
 
