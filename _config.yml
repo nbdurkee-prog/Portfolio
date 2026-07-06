@@ -13,7 +13,7 @@ baseurl: "/Portfolio"
 twitter_username: username
 github_username: nbdurkee-prog
 minimal_mistakes_skin: "sunrise"
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
