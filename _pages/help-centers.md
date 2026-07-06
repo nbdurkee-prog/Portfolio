@@ -5,8 +5,6 @@ layout: single
 author_profile: false
 ---
 
-# Help Centers & Documentation
-
 A well-designed help center does more than answer questions—it anticipates user needs, builds confidence, and reduces friction in the customer experience. I design help centers that users actually want to visit.
 
 ## The Power of Great Documentation
