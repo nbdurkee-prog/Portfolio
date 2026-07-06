@@ -1,11 +1,11 @@
 /* Nancy Durkee Portfolio - Custom Styling */
 
 :root {
-  --cream-color: #f5f1e8;
+  --cream-color: #FFF2E3;
   --charcoal-color: #2c2c2c;
-  --black-color: #000000;
-  --accent-color: #8b7355;
-  --light-gray: #e8e8e8;
+  --black-color: #2E5C5A;
+  --accent-color: #F6A85E;
+  --light-gray: #A9C7C5;
 }
 
 * {
