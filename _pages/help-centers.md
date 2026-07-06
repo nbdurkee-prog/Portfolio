@@ -1,7 +1,7 @@
 ---
 permalink: /help-centers/
 title: "Help Centers"
-layout: portfolio
+layout: single
 author_profile: false
 ---
 
@@ -40,25 +40,17 @@ Help is only useful if users can find it. I optimize for search, create multiple
 
 ## Sample Help Center Projects
 
-<div class="portfolio-card">
-<h3>SaaS Product Help Center Launch</h3>
-<p>Created a comprehensive help center for a B2B SaaS platform from scratch, including 150+ articles organized by user role and workflow. Result: 35% reduction in onboarding support requests.</p>
-</div>
+**SaaS Product Help Center Launch**
+Created a comprehensive help center for a B2B SaaS platform from scratch, including 150+ articles organized by user role and workflow. Result: 35% reduction in onboarding support requests.
 
-<div class="portfolio-card">
-<h3>Knowledge Base Restructuring</h3>
-<p>Reorganized an existing knowledge base of 500+ articles, improving findability through better categorization, cross-linking, and updated navigation. User satisfaction with help center increased by 28%.</p>
-</div>
+**Knowledge Base Restructuring**
+Reorganized an existing knowledge base of 500+ articles, improving findability through better categorization, cross-linking, and updated navigation. User satisfaction with help center increased by 28%.
 
-<div class="portfolio-card">
-<h3>Mobile App Documentation</h3>
-<p>Designed in-app help and mobile-optimized help documentation for a consumer mobile app, ensuring users could find quick answers while using the app.</p>
-</div>
+**Mobile App Documentation**
+Designed in-app help and mobile-optimized help documentation for a consumer mobile app, ensuring users could find quick answers while using the app.
 
-<div class="portfolio-card">
-<h3>API Documentation & Developer Guide</h3>
-<p>Structured technical documentation for developers integrating with an API, including setup guides, code samples, troubleshooting, and best practices.</p>
-</div>
+**API Documentation & Developer Guide**
+Structured technical documentation for developers integrating with an API, including setup guides, code samples, troubleshooting, and best practices.
 
 ## What Makes Great Help Content
 
