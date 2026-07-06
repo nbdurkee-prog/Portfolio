@@ -20,7 +20,7 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes"
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:title/
 paginate: 5
 paginate_path: /page:num/
 timezone: 
@@ -67,14 +67,12 @@ defaults:
       related: true
   # _pages
   - scope:
-      path: "_pages"
+      path: ""
       type: pages
     values:
       layout: portfolio
       author_profile: false
-      toc: true
-      toc_label: "On This Page"
-      toc_sticky: true
+
 category_archive:
   type: liquid
   path: /categories/
