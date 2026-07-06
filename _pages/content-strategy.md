@@ -1,7 +1,7 @@
 ---
 permalink: /content-strategy/
 title: "Content Strategy"
-layout: portfolio
+layout: single
 author_profile: false
 ---
 
@@ -41,25 +41,17 @@ How do you know if your content strategy is working? I develop metrics and measu
 
 ## Strategic Content Areas
 
-<div class="portfolio-card">
-<h3>Enterprise Content Governance</h3>
-<p>Designed and implemented a content governance framework for a large organization, including editorial standards, approval workflows, and content lifecycle management.</p>
-</div>
+**Enterprise Content Governance**
+Designed and implemented a content governance framework for a large organization, including editorial standards, approval workflows, and content lifecycle management.
 
-<div class="portfolio-card">
-<h3>Product Launch Content Strategy</h3>
-<p>Developed comprehensive content strategy for product launches, including messaging frameworks, content roadmaps, and coordinated documentation and marketing content.</p>
-</div>
+**Product Launch Content Strategy**
+Developed comprehensive content strategy for product launches, including messaging frameworks, content roadmaps, and coordinated documentation and marketing content.
 
-<div class="portfolio-card">
-<h3>Customer Education Program</h3>
-<p>Built strategic framework for customer education content, including onboarding guides, training materials, and advanced user content—all aligned with customer success goals.</p>
-</div>
+**Customer Education Program**
+Built strategic framework for customer education content, including onboarding guides, training materials, and advanced user content—all aligned with customer success goals.
 
-<div class="portfolio-card">
-<h3>Digital Transformation Content Strategy</h3>
-<p>Led content strategy for organizations undergoing digital transformation, helping them restructure content systems, migrate legacy content, and prepare for new platforms.</p>
-</div>
+**Digital Transformation Content Strategy**
+Led content strategy for organizations undergoing digital transformation, helping them restructure content systems, migrate legacy content, and prepare for new platforms.
 
 ## Key Elements of Content Strategy
 
