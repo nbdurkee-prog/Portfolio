@@ -5,16 +5,18 @@ layout: portfolio
 author_profile: false
 ---
 
-Great information architecture is invisible—it's when users find exactly what they need without having to think about it. My work in IA focuses on creating logical, intuitive structures that scale.
+Great information architecture is invisible—it's when users find exactly what they need without having to think about it. My work in IA focuses on creating logical, intuitive structures that scale with complexity and support both user goals and business outcomes.
 
 ## What is Information Architecture?
 
-Information Architecture (IA) is the practice of organizing, structuring, and labeling content and functionality in a way that helps users understand where they are, what they can do, and where they can go. It's the backbone of good user experience.
+Information Architecture (IA) is the practice of organizing, structuring, and labeling content and functionality in a way that helps users understand where they are, what they can do, and where they can find what they need.
+
+Good IA reduces cognitive load, improves findability, and creates a seamless experience across websites, apps, and knowledge systems.
 
 ## My Approach
 
 ### 1. **Research & Discovery**
-I start by understanding your users, their mental models, and how they naturally think about your content. Through user research, card sorting, and analysis, I uncover the mental frameworks that guide successful information organization.
+I start by understanding your users, their mental models, and how they naturally think about your content. Through user research, card sorting, and analysis, I uncover the mental frameworks that guide structure decisions.
 
 ### 2. **Content Inventory & Audit**
 Before restructuring information, I document what you have, assess its quality and relevance, and identify gaps or redundancies. This becomes the foundation for all IA decisions.
@@ -32,7 +34,7 @@ Good IA is validated with users. I conduct usability tests, gather feedback, and
 
 One powerful approach to managing complex, multi-audience documentation is using DITA (Darwin Information Typing Architecture). Here's how I orchestrate the content lifecycle:
 
-![DITA Content Lifecycle Workflow]({{ site.baseurl }}/assets/images/dita-workflow.svg)
+![DITA Content Lifecycle Workflow]({{ site.baseurl }}/assets/images/contentflow.jpg)
 
 This workflow demonstrates:
 - **Authoring** in Ixia Web Author with DITA XML
