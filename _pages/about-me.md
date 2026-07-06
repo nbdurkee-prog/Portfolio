@@ -9,7 +9,7 @@ Hi! I'm Nancy Durkee, a content architect and writer with a deep passion for cre
 
 ## My Background
 
-With roots in writing, education, and information architecture, I've spent my career helping organizations communicate clearly and intentionally. My expertise spans:
+With a background in writing, education, and information architecture, I've spent my career helping organizations communicate clearly and intentionally. My expertise spans:
 
 - **Content Strategy & Planning** – Developing long-term content visions and governance frameworks
 - **Information Architecture** – Organizing complex information into intuitive systems
