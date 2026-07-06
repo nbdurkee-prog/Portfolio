@@ -72,13 +72,13 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+      toc: true
+      toc_label: "On This Page"
+      toc_sticky: true
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-toc: true
-   toc_label: "On This Page"
-   toc_sticky: true
+       
