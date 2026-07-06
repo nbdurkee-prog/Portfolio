@@ -7,15 +7,7 @@ layout: default
     <section class="page__content" style="background-color: #f9fbf3 !important;">
       {{ content }}
     </section>
-
-    {% if page.share %}{% include social-share.html %}{% endif %}
-
-    {% include post-pagination.html %}
   </div>
-
-  {% if site.comments.provider and page.comments %}
-    {% include comments.html %}
-  {% endif %}
 </div>
 
 <style>
