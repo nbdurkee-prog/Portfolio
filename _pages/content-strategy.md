@@ -5,8 +5,6 @@ layout: single
 author_profile: false
 ---
 
-# Content Strategy
-
 Content strategy is about connecting what your organization needs to achieve with what your users need to succeed. It's not just about writing—it's about planning, governance, and creating systems that ensure content works harder for you.
 
 ## What is Content Strategy?
