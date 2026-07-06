@@ -1,3 +1,13 @@
 main:
   - title: "Home"
     url: /
+  - title: "About Me"
+    url: /about-me/
+  - title: "Trustworthy Content"
+    url: /trustworthy-content/
+  - title: "Information Architecture"
+    url: /information-architecture/
+  - title: "Content Strategy"
+    url: /content-strategy/
+  - title: "Help Centers"
+    url: /help-centers/
