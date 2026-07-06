@@ -1,10 +1,10 @@
 /* Nancy Durkee Portfolio - Custom Styling */
 
 :root {
-  --cream-color: #f8f8f8;
+  --cream-color: #fbfcf4;
   --charcoal-color: #2c2c2c;
   --black-color: #2a2a2a;
-  --accent-color: #9a9a9a;
+  --accent-color: #445e4f;
   --light-gray: #cfcfcf;
 }
 
@@ -362,6 +362,50 @@ blockquote {
   color: #666;
   font-style: italic;
 }
+
+/* ===== MINIMAL MISTAKES THEME OVERRIDES ===== */
+/* Override sunrise skin orange footer */
 .page__footer {
-  background-color: #f8f8f8
+  background-color: var(--black-color);
+  color: var(--cream-color);
+}
+
+.page__footer a {
+  color: var(--cream-color);
+}
+
+.page__footer a:hover {
+  color: var(--accent-color);
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: var(--cream-color);
+}
+
+/* Override sunrise skin primary/accent orange color on links and buttons */
+a,
+.btn--primary,
+.masthead__inner-wrap .site-title,
+.nav__list .active a {
+  color: var(--accent-color);
+}
+
+/* Override page backgrounds */
+body,
+.page__content,
+.sidebar,
+.page,
+#main {
+  background-color: var(--cream-color);
+}
+
+/* Override sidebar profile */
+.sidebar .author__name a,
+.sidebar .author__bio,
+.sidebar .author__urls a {
+  color: var(--charcoal-color);
+}
+
+.sidebar .author__urls a:hover {
+  color: var(--accent-color);
 }
