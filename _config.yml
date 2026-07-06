@@ -1,3 +1,4 @@
+---
 yaml# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -39,9 +40,9 @@ plugins:
 
 # Author Profile Settings
 author:
-  name   : "Nancy Durkee - Content Architect and Writer Passionate about Trustworthy Content & Responsible AI"
+  name   : "Nancy Durkee"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Content architect, passionate about trustworthy content and responsible AI. Blending my background in writing, education, AI, information architecture, and inclusive content design."
+  bio    : "Content architect, passionate about trustworthy content and responsible AI."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -70,7 +71,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: portfolio
+      layout: single
       author_profile: false
 
 category_archive:
@@ -80,4 +81,4 @@ tag_archive:
   type: liquid
   path: /tags/
    
-navigation: main       
+navigation: main
