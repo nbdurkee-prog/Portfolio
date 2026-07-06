@@ -1,11 +1,11 @@
 ---
 permalink: /help-centers/
 title: "Help Centers"
-layout: single
+layout: portfolio
 author_profile: false
 ---
 
-A well-designed help center does more than answer questions—it anticipates user needs, builds confidence, and reduces friction in the customer experience. I design help centers that users actually want to visit.
+A well-designed help center does more than answer questions—it anticipates user needs, builds confidence, and reduces friction in the customer experience. I design help centers that users actually want to use.
 
 ## The Power of Great Documentation
 
@@ -42,7 +42,7 @@ Help is only useful if users can find it. I optimize for search, create multiple
 Created a comprehensive help center for a B2B SaaS platform from scratch, including 150+ articles organized by user role and workflow. Result: 35% reduction in onboarding support requests.
 
 **Knowledge Base Restructuring**
-Reorganized an existing knowledge base of 500+ articles, improving findability through better categorization, cross-linking, and updated navigation. User satisfaction with help center increased by 28%.
+Reorganized an existing knowledge base of 500+ articles, improving findability through better categorization, cross-linking, and updated navigation. User satisfaction with help center increased by 42%.
 
 **Mobile App Documentation**
 Designed in-app help and mobile-optimized help documentation for a consumer mobile app, ensuring users could find quick answers while using the app.

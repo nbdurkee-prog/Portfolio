@@ -1,20 +1,20 @@
 ---
 permalink: /information-architecture/
 title: "Information Architecture"
-layout: single
+layout: portfolio
 author_profile: false
 ---
 
-Great information architecture is invisible—it's when users find exactly what they need without having to think about it. My work in IA focuses on creating logical, intuitive structures that scale with your content and grow with your users' needs.
+Great information architecture is invisible—it's when users find exactly what they need without having to think about it. My work in IA focuses on creating logical, intuitive structures that scale.
 
 ## What is Information Architecture?
 
-Information Architecture (IA) is the practice of organizing, structuring, and labeling content and functionality in a way that helps users understand where they are, what they can do, and where they need to go next. Good IA is the foundation of usable, accessible digital experiences.
+Information Architecture (IA) is the practice of organizing, structuring, and labeling content and functionality in a way that helps users understand where they are, what they can do, and where they can go. It's the backbone of good user experience.
 
 ## My Approach
 
 ### 1. **Research & Discovery**
-I start by understanding your users, their mental models, and how they naturally think about your content. Through user research, card sorting, and analysis, I uncover the mental frameworks that guide people's expectations.
+I start by understanding your users, their mental models, and how they naturally think about your content. Through user research, card sorting, and analysis, I uncover the mental frameworks that guide successful information organization.
 
 ### 2. **Content Inventory & Audit**
 Before restructuring information, I document what you have, assess its quality and relevance, and identify gaps or redundancies. This becomes the foundation for all IA decisions.

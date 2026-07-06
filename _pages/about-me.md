@@ -1,7 +1,7 @@
 ---
 permalink: /about-me/
 title: "About Me"
-layout: single
+layout: portfolio
 author_profile: false
 ---
 
@@ -18,7 +18,7 @@ With a background in writing, education, and information architecture, I've spen
 
 ## What Drives My Work
 
-I believe that great content isn't just well-written—it's thoughtfully organized, ethically designed, and accessible to everyone. In an age where AI and automation are transforming how content is created and consumed, I'm passionate about ensuring that content remains trustworthy and centered on user needs.
+I believe that great content isn't just well-written—it's thoughtfully organized, ethically designed, and accessible to everyone. In an age where AI and automation are transforming how content is created and consumed, trustworthiness and transparency matter more than ever.
 
 ## My Philosophy
 
