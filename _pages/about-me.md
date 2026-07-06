@@ -5,8 +5,6 @@ layout: single
 author_profile: false
 ---
 
-# About Me
-
 Hi! I'm Nancy Durkee, a content architect and writer with a deep passion for creating trustworthy, accessible content that serves users well.
 
 ## My Background
