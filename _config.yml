@@ -79,3 +79,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+toc: true
+   toc_label: "On This Page"
+   toc_sticky: true
