@@ -5,7 +5,7 @@ layout: single
 author_profile: false
 ---
 
-
+# Information Architecture
 
 Great information architecture is invisible—it's when users find exactly what they need without having to think about it. My work in IA focuses on creating logical, intuitive structures that scale with your content and grow with your users' needs.
 
