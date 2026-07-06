@@ -24,12 +24,13 @@ html, body {
 
 /* ===== HEADER ===== */
 .site-header {
-  background-color: var(--black-color);
-  border-bottom: 3px solid var(--accent-color);
+  background-color: var(--accent-color);
+  border-bottom: none;
   padding: 0;
   position: sticky;
   top: 0;
   z-index: 1000;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .site-header-inner {
@@ -51,7 +52,8 @@ html, body {
 }
 
 .site-title a:hover {
-  color: var(--accent-color);
+  color: var(--cream-color);
+  opacity: 0.8;
 }
 
 .site-header-nav {
@@ -69,7 +71,8 @@ html, body {
 }
 
 .site-header-nav a:hover {
-  color: var(--accent-color);
+  color: var(--cream-color);
+  opacity: 0.8;
 }
 
 /* ===== MAIN LAYOUT ===== */
