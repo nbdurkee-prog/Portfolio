@@ -1,0 +1,118 @@
+<svg viewBox="0 0 1200 500" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto;">
+  <!-- Define styles -->
+  <defs>
+    <style>
+      .box { fill: #2a2a2a; stroke: #cfcfcf; stroke-width: 2; }
+      .box-text { fill: #f9fbf3; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; text-anchor: middle; }
+      .label { fill: #2c2c2c; font-family: Arial, sans-serif; font-size: 12px; }
+      .arrow { stroke: #2a2a2a; stroke-width: 2; fill: none; marker-end: url(#arrowhead); }
+      .title { fill: #2c2c2c; font-family: Arial, sans-serif; font-size: 18px; font-weight: bold; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto">
+      <polygon points="0 0, 10 3, 0 6" fill="#2a2a2a" />
+    </marker>
+  </defs>
+  
+  <!-- Title -->
+  <text x="600" y="30" class="title" text-anchor="middle">DITA Content Lifecycle Workflow</text>
+  
+  <!-- Step 1: Authoring -->
+  <rect x="50" y="80" width="140" height="80" class="box" rx="5"/>
+  <text x="120" y="110" class="box-text">Authoring</text>
+  <text x="120" y="128" class="box-text" style="font-size: 12px; font-weight: normal;">Ixia Web Author</text>
+  <text x="120" y="145" class="box-text" style="font-size: 12px; font-weight: normal;">DITA XML</text>
+  
+  <!-- Arrow 1 -->
+  <path d="M 190 120 L 230 120" class="arrow"/>
+  
+  <!-- Step 2: Metadata & Taxonomy -->
+  <rect x="230" y="80" width="140" height="80" class="box" rx="5"/>
+  <text x="300" y="105" class="box-text">Metadata &</text>
+  <text x="300" y="125" class="box-text">Taxonomy</text>
+  <text x="300" y="143" class="box-text" style="font-size: 11px; font-weight: normal;">Tags, Attributes</text>
+  
+  <!-- Arrow 2 -->
+  <path d="M 370 120 L 410 120" class="arrow"/>
+  
+  <!-- Step 3: Processing -->
+  <rect x="410" y="80" width="140" height="80" class="box" rx="5"/>
+  <text x="480" y="110" class="box-text">Processing</text>
+  <text x="480" y="128" class="box-text" style="font-size: 12px; font-weight: normal;">DITA Pipeline</text>
+  <text x="480" y="145" class="box-text" style="font-size: 12px; font-weight: normal;">Build & Filter</text>
+  
+  <!-- Arrow 3 -->
+  <path d="M 550 120 L 590 120" class="arrow"/>
+  
+  <!-- Step 4: Filtering -->
+  <rect x="590" y="80" width="140" height="80" class="box" rx="5"/>
+  <text x="660" y="105" class="box-text">DITAVAL</text>
+  <text x="660" y="125" class="box-text">Filters</text>
+  <text x="660" y="143" class="box-text" style="font-size: 11px; font-weight: normal;">Audience Rules</text>
+  
+  <!-- Arrow 4 - splits into three -->
+  <path d="M 730 120 L 770 120" class="arrow"/>
+  
+  <!-- Output 1: End Users -->
+  <rect x="770" y="30" width="120" height="60" class="box" rx="5"/>
+  <text x="830" y="50" class="box-text">End User</text>
+  <text x="830" y="68" class="box-text" style="font-size: 11px; font-weight: normal;">Content</text>
+  
+  <!-- Output 2: Admins -->
+  <rect x="770" y="110" width="120" height="60" class="box" rx="5"/>
+  <text x="830" y="130" class="box-text">Admin</text>
+  <text x="830" y="148" class="box-text" style="font-size: 11px; font-weight: normal;">Content</text>
+  
+  <!-- Output 3: Developers -->
+  <rect x="770" y="190" width="120" height="60" class="box" rx="5"/>
+  <text x="830" y="210" class="box-text">Developer</text>
+  <text x="830" y="228" class="box-text" style="font-size: 11px; font-weight: normal;">Content</text>
+  
+  <!-- Arrows to outputs -->
+  <path d="M 730 100 L 770 60" class="arrow"/>
+  <path d="M 730 120 L 770 140" class="arrow"/>
+  <path d="M 730 140 L 770 220" class="arrow"/>
+  
+  <!-- Final output formats -->
+  <g>
+    <text x="950" y="45" class="label">HTML</text>
+    <text x="950" y="65" class="label">PDF</text>
+    <text x="950" y="85" class="label">EPUB</text>
+  </g>
+  
+  <g>
+    <text x="950" y="125" class="label">HTML</text>
+    <text x="950" y="145" class="label">PDF</text>
+    <text x="950" y="165" class="label">Web Portal</text>
+  </g>
+  
+  <g>
+    <text x="950" y="205" class="label">API Docs</text>
+    <text x="950" y="225" class="label">Code Examples</text>
+    <text x="950" y="245" class="label">Reference</text>
+  </g>
+  
+  <!-- Bottom annotation boxes -->
+  <rect x="50" y="320" width="240" height="140" fill="none" stroke="#cfcfcf" stroke-width="1" stroke-dasharray="5,5" rx="3"/>
+  <text x="60" y="340" class="label" style="font-weight: bold;">Key Benefits:</text>
+  <text x="60" y="360" class="label">• Single source of truth</text>
+  <text x="60" y="378" class="label">• Reusable content modules</text>
+  <text x="60" y="396" class="label">• Automated filtering by audience</text>
+  <text x="60" y="414" class="label">• Consistent information architecture</text>
+  <text x="60" y="432" class="label">• Multiple output formats</text>
+  
+  <rect x="330" y="320" width="240" height="140" fill="none" stroke="#cfcfcf" stroke-width="1" stroke-dasharray="5,5" rx="3"/>
+  <text x="340" y="340" class="label" style="font-weight: bold;">Metadata Examples:</text>
+  <text x="340" y="360" class="label">• Product version</text>
+  <text x="340" y="378" class="label">• Audience level (beginner/expert)</text>
+  <text x="340" y="396" class="label">• Platform (Windows/Mac/Linux)</text>
+  <text x="340" y="414" class="label">• Feature flags</text>
+  <text x="340" y="432" class="label">• Language/localization</text>
+  
+  <rect x="610" y="320" width="240" height="140" fill="none" stroke="#cfcfcf" stroke-width="1" stroke-dasharray="5,5" rx="3"/>
+  <text x="620" y="340" class="label" style="font-weight: bold;">DITAVAL Filtering:</text>
+  <text x="620" y="360" class="label">• Include/exclude conditions</text>
+  <text x="620" y="378" class="label">• Flag content for review</text>
+  <text x="620" y="396" class="label">• Audience-specific branches</text>
+  <text x="620" y="414" class="label">• Version-specific output</text>
+  <text x="620" y="432" class="label">• Language variants</text>
+</svg>
