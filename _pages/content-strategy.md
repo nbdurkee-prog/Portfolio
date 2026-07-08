@@ -9,7 +9,11 @@ Through my experience in the B2B space I've learned to develop content strategie
 
 ## My Content Strategy Approach
 
-When planning how to update content processes, or onboard new teams with existing sets of conent to new tools and processes, an understanding of the complete worfklow, from content creation to user experience is important. Change management is an important piece of it because enabling writing teams to do great work confidently and efficiently makes the change process easier. Aligning with business goals and clients needs is essential, and builing strong teams and sustainable processes make it possible to produce high quality content over time.
+When planning how to update content processes, or onboard writing teams with existing sets of content to new tools and processes, an understanding of the complete worfklow, from content creation to user experience, is important.
+
+- Change management is an important piece to be aware of along the way because enabling writing teams to do great work confidently and efficiently makes the change process easier.
+- Aligning with business goals and clients needs is essential. 
+- Builing strong rapport with and sustainable processes make it possible to produce high quality content over time.
 
 
 ## Process Used For Two Projects
