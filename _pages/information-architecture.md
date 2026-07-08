@@ -13,22 +13,6 @@ I have experience onboarding writing teams to a centralized, AI-ready content op
 
 Structured, semantic authoring is fundamental to creating content that can be reused and tailored to various client needs, and it is also a great foundation for AI-ready content.
 
-## My Approach
-
-### 1. **Research & Discovery**
-I start by understanding your users, their mental models, and how they naturally think about your content. Through user research, card sorting, and analysis, I uncover the mental frameworks that guide structure decisions.
-
-### 2. **Content Inventory & Audit**
-Before restructuring information, I document what you have, assess its quality and relevance, and identify gaps or redundancies. This becomes the foundation for all IA decisions.
-
-### 3. **Taxonomy & Labeling**
-Clear, consistent terminology matters. I develop controlled vocabularies and labeling systems that align with both user language and business needs.
-
-### 4. **Navigation Design**
-Whether it's a website hierarchy, an app's information flow, or a knowledge base structure, I design navigation systems that feel natural and help users find what they need.
-
-### 5. **Testing & Iteration**
-Good IA is validated with users. I conduct usability tests, gather feedback, and refine the structure based on real behavior and preferences.
 
 ## Content Development Lifecycle
 
@@ -38,32 +22,35 @@ Using DITA (Darwin Information Typing Architecture) for structured, semantic con
 
 This workflow demonstrates:
 - **Authoring** in Ixia Web Author with DITA XML
-- **Metadata & Taxonomy** tagging for organization and filtering
-- **Processing** through DITA pipelines for consistency
+- **Metadata** tagging to enable single-sourcing
+- **Taxonomy** tagging to enable findability in Search and more accurate conversational AI
+- **Tranlsation Workflow Management** CMS keeps track of which files have been translated to save costs
 - **DITAVAL Filtering** to create audience-specific content
-- **Multiple outputs** from a single source of truth
+- **Omni-Channel Publishing** Generating multiple output types from a single source of truth
 
-This approach is particularly valuable for organizations with:
-- Multiple product versions or platforms
-- Different audience levels (end users, administrators, developers)
-- Regulatory or compliance requirements
-- Multi-language documentation needs
 
 ## Key Projects (New content)
 
-**Enterprise Knowledge Base Restructuring**
-Reorganized a complex knowledge base serving 50,000+ users, reducing search time by 40% and improving content findability through improved taxonomy and navigation.
+**Surface Knowledge Contextually, and Create Help Center for Analytics Product**
+Migrated and revised Help content and created a new Help Center with the following requirements:
+- Multliple ways for clients to find information
+- Tiles homepage reflecting UX design guidelines
+- Translate conent into 14 languages, translate UX strings
+- Collaborate with development team on Help integration, decoupled from product releases so writers could update the Help independently
 
-**E-Commerce Product Categorization**
-Designed a new product taxonomy that aligned with user mental models, increasing the average number of browsed categories and improving conversion rates.
+**Help Center for Recruitment Product**
+Designed a new Help Center...
 
-**SaaS Platform Information Architecture**
-Created the foundational IA for a new SaaS platform, including user workflows, content hierarchies, and navigation patterns that scaled as the product grew.
+**Make Help Content used to publish Help AI-Ready**
+Analyzed existing Help content written for product...
+
+**Unified Taxonomy Across Different Teams**
+When onboarding a new team, the deliverables would need to not only become in-product Help, but also be used in SalesForce Knowledge and a client-facing knowledge portal. I needed to analyize the taxonomy needs and across teams and ensure the content would be findable in all user experiences.
 
 ## Resources & Tools I Use
 
 - Miro for Information Architecture modeling and documentation
-- Taxonomy development and management
+- Taxonomy and metadata development - controlled vocabularies 
 - Figma for UX Design
 - DITAVAL filtering for Conditional Processing to produce content for different audiences
 - Ixia Eclipse CCMS and Web Author for content development, metadata setup 
