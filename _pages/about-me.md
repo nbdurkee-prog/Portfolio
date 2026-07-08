@@ -23,9 +23,10 @@ A common thread through my work is a passion to help people learn. I believe str
 
 ## About this Porfolio Website
 
-I used the following to build this portfolio website:
-- **Github Copilot** – I prompted and iterated
-- **Github** – Code development framework and website hosting
+I used the following tools to build this portfolio website:
+- **Github Copilot** – AI tool I used to input prompts and iterate until I achieved the desired website UX 
+- **Github** – Code repository
+- **Github Pages** Web server hosting
 - **Markdown** - I used Markdown to develop the content and structure
 - **Drawing IO and Apple Keynote** – Diagrams, workflows
 - **Google Gemini** – I searched for how-to information for modifying the website design
