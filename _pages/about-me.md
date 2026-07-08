@@ -16,6 +16,7 @@ With a background in writing, learning, user experience, and information archite
 - **User-Centered Content Design** – Creating documentation and help systems that users actually want to use
 - **Trustworthy Content** – Ensuring content is trustworthy, transparent, and designed with users in mind
 - **AI Ready, Responsible Content** – Ensuring content is trustworthy, transparent, and designed with users in mind
+  
 ## Intentional Content
 
 A common thread through my work is a passion to help people learn. I believe strongly that content should be accessible and inclusive. Clear content whether in a product or a knowledge base engages people and supports them as they work. 
