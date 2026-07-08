@@ -5,7 +5,7 @@ layout: portfolio
 author_profile: false
 ---
 
-Hi! I'm Nancy Durkee, a content architect and writer with a deep passion for creating trustworthy, accessible content that serves users well.
+Hi! I'm Nancy Durkee. I work at the intersection of writing, information architecture, user experience, and content governance. A common thread through my work is a passion to help people learn.
 
 ## My Background
 
@@ -30,13 +30,17 @@ Every piece of content should:
 
 ## Skills & Expertise
 
-- Content Strategy & Governance
+- Structured, Semantic Authoring  
 - Information Architecture
+- Help Center Design
+- Conditional Processing
+- Taxonomy & Metadata
+- AI-Ready Content
+- Content Governance
+- Inclusive and Accessible Content (WCAG)
 - Help Center & Technical Documentation Design
-- Content Planning & Editorial Management
-- User Research & Content Testing
-- Content Accessibility & Inclusive Design
 - AI Ethics & Responsible Content Practices
+- Content Tools: MadCap IXIA CCMS and Flare, Oxygen XML, Adobe Photoshop
 
 ---
 
