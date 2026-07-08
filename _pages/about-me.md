@@ -5,20 +5,20 @@ layout: portfolio
 author_profile: false
 ---
 
-Hi! I'm Nancy Durkee. I work at the intersection of writing, information architecture, user experience, and content governance. A common thread through my work is a passion to help people learn.
+Hi! I'm Nancy Durkee. I work at the intersection of writing, information architecture, user experience, and content governance. 
 
 ## My Background
 
-With a background in writing, education, and information architecture, I've spent my career helping organizations communicate clearly and intentionally. My expertise spans:
+With a background in writing, learning, user experience, and information architecture, I've worked to help organizations communicate clearly to support clients working in products. Content is the voice of a company's product, and ensuring that voice is clear, supportive, helpful and inclusive is how I envision my work. My expertise spans:
 
-- **Content Strategy & Planning** – Developing long-term content visions and governance frameworks
+- **Content Strategy** – Developing long-term content visions and governance frameworks
 - **Information Architecture** – Organizing complex information into intuitive systems
 - **User-Centered Content Design** – Creating documentation and help systems that users actually want to use
-- **AI & Responsible Content** – Ensuring content is trustworthy, transparent, and designed with users in mind
+- **Trustworthy Content** – Ensuring content is trustworthy, transparent, and designed with users in mind
+- **AI Ready, Responsible Content** – Ensuring content is trustworthy, transparent, and designed with users in mind
+## Intentional Content
 
-## What Drives My Work
-
-I believe that great content isn't just well-written—it's thoughtfully organized, ethically designed, and accessible to everyone. In an age where AI and automation are transforming how content is created and consumed, trustworthiness and transparency matter more than ever.
+A common thread through my work is a passion to help people learn. I believe strongly that content should be accessible and inclusive. Clear content whether in a product or a knowledge base engages people and supports them as they work. 
 
 ## My Philosophy
 
