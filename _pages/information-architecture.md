@@ -5,7 +5,7 @@ layout: portfolio
 author_profile: false
 ---
 
-Great information architecture is invisible—it's when users find exactly what they need without having to think about it. My work in IA focuses on creating logical, intuitive structures that scale with complexity and support both user goals and business outcomes.
+Drawing on my background in structured content, I'm able to fluently envision information architecture strategies that surface contextual information in the flow of work, and build Help Centers that suit different user experiences. I use the same strategies ensure content is prepared sufficiently for responsible AI use. 
 
 ## Information Architecture Tech Stack
 
