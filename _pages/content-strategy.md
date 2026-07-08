@@ -5,7 +5,7 @@ layout: portfolio
 author_profile: false
 ---
 
-Through my experience in the B2B space I've learned to develop content strategies for performance support in products that support clients with different organizational needs.
+I'm summarizing two projects I led, developing content strategies for bringing writing teams and their content operations that were part of a subsidiary company we acquired into our company's centralized knowledge and learning organization.
 
 ## Content Strategy Approach
 
@@ -16,7 +16,7 @@ When planning how to update content processes, or onboard writing teams with exi
 - Builing strong rapport with and sustainable processes make it possible to produce high quality content over time.
 
 
-## Use Case: Content Strategy Approach  
+## Analysis Process  
 
 ### 1. **Business and Client Needs**
 I started by understanding the specific company goals for migrating this team and content, and the client needs.
@@ -43,7 +43,7 @@ Any risk to the company by delaying or not migrating the content is identified.
 I capture both short-term and long-term stategies. This can help a company mitigate immediate risks without committing to start a large project right away. 
 
 
-## Project: Create Content Strategy to Onboard Tech Writing Team
+## Project: Tech Writing Team and Content Operations
 
 **The Challenge & Current Operations**
 - The company had been recently acquired and the Tech Writing Team and their deliverables had been left out of the change management process.
@@ -68,19 +68,25 @@ I capture both short-term and long-term stategies. This can help a company mitig
 - Develop Help and PDF output types so client content deliverables could be generated.
 
 
-## Project: Create Content Strategy to Migrate Knowledge Community
+## Project: Knowledgebase Community, Internal and Client-facing
 
-**Content Vision** – Where is your content heading? What role does it play in your organization's future?
+**The Challenge & Current Operations** 
+- The knowledgebase had been rolled out quickly and the training and content migration was never completed.
+- Teams like, Customer Support, Training, and Implementation, were still authoring in their former tools storing content in Sharepoint and the company's isolated org of SalesForce.
+- The Knowlege Manager was re-creating content that teams handed off to her rather than authoring in it.
 
-**Content Principles** – What values guide your content? (e.g., clarity, inclusivity, trustworthiness)
+**Relevant Findings** 
+- Knowledge was out of date that associates and clients were accessing.
+- There was no content or taxonomy governance.
+- Although people on other teams had licenses, they were not using them.
+- The Support team needed access to the content in Salesforce because that is where they managed support cases, so their workflow was not efficient to go to the knowledge base to find information to help clients.
 
-**Audience Understanding** – Who do you serve, and what do they need?
+**Recommended Content Strategy** 
+- Identify the workflow needs for each team.
+- For example, for the Support Team, long-term goal: migrate Salesforce information to Company's main org.
+- Convert content to DITA content stack and create autopublishing to the Salesforce org so Support people find the information they need in SalesForce Knowledge.
 
-**Content Roadmap** – What content do you need, in what order, and by when?
 
-**Governance & Roles** – Who makes decisions? How do you maintain quality and consistency?
-
-**Metrics & Success** – How do you measure if your content strategy is working?
 
 ## Emerging Trends I'm Following
 
