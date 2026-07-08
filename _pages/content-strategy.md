@@ -7,7 +7,7 @@ author_profile: false
 
 I'm summarizing two projects I led, developing content strategies to bring writing teams and their content operations into our company's centralized knowledge and learning organization. The teams were part of a subsidiary company we acquired and their core product was being embedded into our company's products, including our newest launched product, and was already part of the global sales strategy. 
 
-## A Few Guiding Principles
+## Content Strategy - Guiding Principles
 
 When planning how to update content processes, or onboard writing teams with existing sets of content to new tools and processes, an understanding of the complete worfklow, from content creation to user experience, is important.
 
@@ -90,13 +90,8 @@ I capture both short-term and long-term stategies. This can help a company mitig
 
 
 
-## Emerging Trends I'm Following
 
-- **AI & Responsible Content** – How to use AI responsibly while maintaining trustworthiness
-- **Inclusive Content Design** – Content accessible to all users, regardless of ability
-- **Content & Experience** – How content strategy connects to overall user experience
-- **Knowledge Management** – Systems for organizing and preserving organizational knowledge
 
 ---
 
-If you'd like to discuss how a content strategy based in structured content, responsible governance, and sustainable operations, [Let's connect](mailto:nbdurkee@gmail.com).
+If you'd like to discuss how a content strategy based in structured content, responsible governance, and sustainable operations can help your organization, [Let's connect](mailto:nbdurkee@gmail.com).
