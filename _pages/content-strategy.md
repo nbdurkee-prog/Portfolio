@@ -7,7 +7,7 @@ author_profile: false
 
 Through my experience in the B2B space I've learned to develop content strategies for performance support in products that support clients with different organizational needs.
 
-## Content Strategy 
+## Content Strategy Approach
 
 When planning how to update content processes, or onboard writing teams with existing sets of content to new tools and processes, an understanding of the complete worfklow, from content creation to user experience, is important.
 
@@ -16,7 +16,7 @@ When planning how to update content processes, or onboard writing teams with exi
 - Builing strong rapport with and sustainable processes make it possible to produce high quality content over time.
 
 
-## Use Case: Content Strategy Approach Used For Projects in this Portfolio
+## Use Case: Content Strategy Approach  
 
 ### 1. **Business and Client Needs**
 I started by understanding the specific company goals for migrating this team and content, and the client needs.
@@ -39,25 +39,36 @@ I review the current content operations tool stack and how and where the content
 ### 7. **Risk Analysis**
 Any risk to the company by delaying or not migrating the content is identified. 
 
-### 7. **Recommendatios**
+### 8. **Recommendatios**
 I capture both short-term and long-term stategies. This can help a company mitigate immediate risks without committing to start a large project right away. 
 
 
-## Strategic Content Project: Migrate Product Help and PDF Content from a Subsidiary Company to Central Content Operations
+## Project: Create Content Strategy to Onboard Tech Writing Team
 
-**Enterprise Content Governance**
-Led content governance initiative, evaluated vendors, sought executive sponsor, lead team of content leaders across writing teams to develop and centralize product content standards on clarity, grammer, inclusive content, accessibility, and tone.
+**The Challenge & Current Operations**
+- The company had been recently acquired and the Tech Writing Team and their deliverables had been left out of the change management process.
+- The Writing team maintained over 150 sets of content supporting several products.
+- A subset of their content was high priority since it supported one of their products that was being integrated into several global platforms.
+- They used a proprietary authoring tool and produced unstructured content.
+- Their content was coupled with releases.
 
-**Migration of Technical Content Operations from a Subsidiary Company**
-Conducted analysis of content operations, content quality and delivery. Make recommendations for converting content to standard structured tech stack prior to translation deadlines for international clients. 
+**Relevant Findings**
+- There was no translation process, all the content was in US English.
+- Without tools to support translation management or expertise, it would be expensive to continue their operations.
+- Content was not single-sourced, so huge sets of content not reflective of audience type made for too much irrelevant conten in user experiences that clients had to wade through.
+- Content was not structured and not AI-ready for our company's AI conversational experiences.
+- There was no editorial platform for content governance.
+- The most important finding was the Global Sales team had already sold this product as part of several deals in Canada, making the requirement to translate the Help content into Canadian French a short-term mission-critical need to mitigate legal risk and brand damage in Canada.
 
-**Migration of Knowledge Content Operations from a Subsidiary Company**
-Analyize existing proprietary Knowledge base and learn its capabilities and limitations. Test content conversion and new delivery approaches. 
+**Recommended Content Strategy**
+- Review content inventory and with stakeholders and establish short list of deliverables to convert, translate and deliver in the short-term by end of fiscal year.
+- Train writing team on DITA structured authoring tools, support them.
+- Hire writers to help with content conversion and train them on conversion tool and editing.
+- Translate content.
+- Develop Help and PDF output types so client content deliverables could be generated.
 
-**Strategy to Convert Unstructured Content to AI-Ready Structured Content**
-Create translation strategy and conduct content conversion and translation Proof of Concept. 
 
-## Strategic Content Project: Migrate Knowledge Content from a Subsidiary Company to Central Content Operations
+## Project: Create Content Strategy to Migrate Knowledge Community
 
 **Content Vision** – Where is your content heading? What role does it play in your organization's future?
 
