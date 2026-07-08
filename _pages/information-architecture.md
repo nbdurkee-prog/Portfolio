@@ -7,7 +7,7 @@ author_profile: false
 
 Drawing on my background in structured content, I'm able to fluently envision information architecture strategies that surface contextual information in the flow of work, and build Help Centers that suit different user experiences. I use the same strategies ensure content is prepared sufficiently for responsible AI use. 
 
-## Information Architecture Tech Stack
+## Information Architecture  
 
 I have experience onboarding writing teams to a centralized, AI-ready content operations stack, teaching them structured authoring standards (DITA) and defined taxonomy, metadata, and omni-channel publishing processes. I enjoy building content governance so every writer can create inclusive, accessible, and clear content, consistently.
 
@@ -30,9 +30,9 @@ Whether it's a website hierarchy, an app's information flow, or a knowledge base
 ### 5. **Testing & Iteration**
 Good IA is validated with users. I conduct usability tests, gather feedback, and refine the structure based on real behavior and preferences.
 
-## DITA Content Lifecycle
+## Content Development Lifecycle
 
-One powerful approach to managing complex, multi-audience documentation is using DITA (Darwin Information Typing Architecture). Here's how I orchestrate the content lifecycle:
+Using DITA (Darwin Information Typing Architecture) for structured, semantic content development is a powerful way to create single-sourced content that serves clients with differentiated content needs as well as prepares content to be AI-Ready for conversational AI agent experiences in products.  
 
 ![DITA Content Lifecycle Workflow]({{ site.baseurl }}/assets/images/contentflow.jpg)
 
@@ -49,7 +49,7 @@ This approach is particularly valuable for organizations with:
 - Regulatory or compliance requirements
 - Multi-language documentation needs
 
-## Key Projects
+## Key Projects (New content)
 
 **Enterprise Knowledge Base Restructuring**
 Reorganized a complex knowledge base serving 50,000+ users, reducing search time by 40% and improving content findability through improved taxonomy and navigation.
@@ -62,12 +62,13 @@ Created the foundational IA for a new SaaS platform, including user workflows, c
 
 ## Resources & Tools I Use
 
-- User Research & Testing (interviews, card sorting, tree testing)
-- Information Architecture modeling and documentation
+- Miro for Information Architecture modeling and documentation
 - Taxonomy development and management
-- Navigation design and prototyping
-- Analytics review and optimization
-- DITA XML authoring and publishing
+- Figma for UX Design
+- DITAVAL filtering for Conditional Processing to produce content for different audiences
+- Ixia Eclipse CCMS and Web Author for content development, metadata setup 
+- Oxygen XML Editor for Contextual Help Mapping
+- Oxygen Webhelp plugin & CSS for Brand styling alignment of Help Center UX
 - DITAVAL filtering for multi-audience content
 
 ---
