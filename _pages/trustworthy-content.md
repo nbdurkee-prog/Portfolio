@@ -7,7 +7,7 @@ author_profile: false
 
 Trustworthy content helps people make confident decisions. It is clear, transparent, accurate, and designed to serve real user needs—not just business goals.
 
-## What Is Trustworthy Content?
+## What is Trustworthy Content?
 
 Trustworthy content is content users can rely on. It is:
 
@@ -19,41 +19,30 @@ Trustworthy content is content users can rely on. It is:
 
 In practice, trustworthy content builds long-term user confidence and reduces confusion, risk, and support burden.
 
-## My Approach
+## Use Case: Many Teams Writing Product Content - No Centralized Standards
 
-### 1. **Understand User Intent**
-I start by identifying what users need to know, what decisions they are trying to make, and what risks they face if content is unclear or incomplete.
+### 1. **Many Standards, Manual Access, Not Kept Current**
+Large companies typically have many product teams and many more teams contributing content to products. My company was no exception. I recognized that while we did have teams, sometimes multiple that wrote standards for Inclusive content, or Tone, or Voice, there was not a single central source of truth. This made it time-consuming and challenging for writers to align their content.
 
-### 2. **Establish Content Standards**
-I define quality standards for voice, accuracy, sourcing, accessibility, and governance so teams can create content that is reliable at scale.
+### 2. **Interview Leaders**
+I met with leaders who were responsible for content standards in various areas, and they had trouble enforcing quality. They were overburdened with content review requests. Legal teams were concerned with risk around incorrect terminology. The Translation Management team caught jargon that prevented clear translations, marketing and UX were picking up disconnected tone and voice that clients experience. 
 
-### 3. **Design for Clarity and Transparency**
-I structure content so users can scan quickly, understand context, and find the “why” behind recommendations, rules, or product behavior.
+### 3. **Develop Business Case, Seek Executive Sponsor**
+I initially wrote a business case and a new leader joined the company as Chief of Inclusion and she connected me with teams to gain acceptance of the need for a centralized editorial platform. 
 
-### 4. **Review for Risk and Bias**
-I evaluate content for ambiguity, exclusionary language, and unsupported claims—especially in AI-assisted and automated workflows.
+### 4. **Evaluate Vendors**
+With the capability we needed in hand, I was able to set up several calls with vendors to learn if their platform would be a fit. 
 
 ### 5. **Measure and Improve**
 Trust is not static. I use feedback loops, support insights, and usability signals to improve content continuously.
 
-## Where This Matters Most
+## Project: Develop Business Case for Enterprise Content Governance
 
-Trustworthy content is especially important for:
-
-- Help centers and support documentation
-- Product onboarding and in-app guidance
-- Policy and compliance content
-- AI-generated or AI-assisted content experiences
-- Cross-functional content operations at scale
+Led content governance initiative, evaluated vendors, sought executive sponsor, lead team of content leaders across writing teams to develop and centralize product content standards on clarity, grammer, inclusive content, accessibility, and tone.
 
 ## Core Practices I Use
 
-- Plain-language writing and structured content patterns
-- Source validation and review workflows
-- Content governance and editorial standards
-- Inclusive language and accessibility checks
-- User testing for comprehension and confidence
-- Ongoing QA and content performance analysis
+- test
 
 ---
 
