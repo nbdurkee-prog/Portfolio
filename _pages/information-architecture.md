@@ -7,11 +7,11 @@ author_profile: false
 
 Great information architecture is invisible—it's when users find exactly what they need without having to think about it. My work in IA focuses on creating logical, intuitive structures that scale with complexity and support both user goals and business outcomes.
 
-## What is Information Architecture?
+## Information Architecture Tech Stack
 
-Information Architecture (IA) is the practice of organizing, structuring, and labeling content and functionality in a way that helps users understand where they are, what they can do, and where they can find what they need.
+I have experience onboarding writing teams to a centralized, AI-ready content operations stack, teaching them structured authoring standards (DITA) and defined taxonomy, metadata, and omni-channel publishing processes. I enjoy building content governance so every writer can create inclusive, accessible, and clear content, consistently.
 
-Good IA reduces cognitive load, improves findability, and creates a seamless experience across websites, apps, and knowledge systems.
+Structured, semantic authoring is fundamental to creating content that can be reused and tailored to various client needs, and it is also a great foundation for AI-ready content.
 
 ## My Approach
 
