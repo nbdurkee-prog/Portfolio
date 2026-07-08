@@ -5,9 +5,9 @@ layout: portfolio
 author_profile: false
 ---
 
-I'm summarizing two projects I led, developing content strategies for bringing writing teams and their content operations that were part of a subsidiary company we acquired into our company's centralized knowledge and learning organization.
+I'm summarizing two projects I led, developing content strategies to bring writing teams and their content operations into our company's centralized knowledge and learning organization. The teams were part of a subsidiary company we acquired and their core product was being embedded into our company's products, including our newest launched product, and was already part of the global sales strategy. 
 
-## Content Strategy Approach
+## A Few Guiding Principles
 
 When planning how to update content processes, or onboard writing teams with existing sets of content to new tools and processes, an understanding of the complete worfklow, from content creation to user experience, is important.
 
@@ -16,7 +16,7 @@ When planning how to update content processes, or onboard writing teams with exi
 - Builing strong rapport with and sustainable processes make it possible to produce high quality content over time.
 
 
-## Analysis Process  
+## My Content Strategy Process  
 
 ### 1. **Business and Client Needs**
 I started by understanding the specific company goals for migrating this team and content, and the client needs.
@@ -28,7 +28,9 @@ Before starting research, I check my understanding of the boundaries of what sho
 I meet with the writing team, subject matter experts, support teams to understand the various audiences that use the content, where they use it, which experiences they access it through, and review any usage analytics, if available. 
 
 ### 4. **Content Inventory**
-Establishing a report with the content teams is key, they are the best people to learn from as far as what their deliverables are. I generally ask writing team leads to provide an inventory, with deliverble frequence, where the source files are, the product each content deliverable supports, the content authoring tools, and the experiences it's delivered to. We review it and collaborate on ensuring this document tells the story of what they develop and maintain. This also serves as a tool later to use to prioritize which sets of content get converted first, or which one to use for a proof of concept, if necessary. 
+Establishing a report with the content teams is key, they are the best people to learn from as far as what their deliverables are. I asked the writing team lead to provide an inventory, with deliverble frequence, where the source files are, the product each content deliverable supports, the content authoring tools, and the experiences it's delivered to. 
+
+I reviewed it and asked questions to ensure this document tells the story of what the team develops and maintains. Because it had the right amount of detail, this document also made it efficient to prioritize which sets of content get converted first with stakeholders.
 
 ### 5. **Content Quality Evaluation**
 Samples of content are then evaluated for alignment with company standards on style, tone, voice, inclusion, accessibility, terminology. Dates of last revision are also noted and added to the Content Inventory tracker. In the cases where the content team is from a recently acquired company, it will not of course be compliant with centralized standards, but I review it for its consistency and clarity, and how modular it is. 
