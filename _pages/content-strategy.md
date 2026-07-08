@@ -5,7 +5,7 @@ layout: portfolio
 author_profile: false
 ---
 
-Content strategy is about connecting what your organization needs to achieve with what your users need to succeed. It's not just about writing—it's about planning, governance, and creating systems that scale.
+Through my experience in the B2B space I've learned to develop content strategies for performance support in products that support clients with different organizational needs.
 
 ## What is Content Strategy?
 
@@ -40,16 +40,16 @@ How do you know if your content strategy is working? I develop metrics and measu
 ## Strategic Content Areas
 
 **Enterprise Content Governance**
-Designed and implemented a content governance framework for a large organization, including editorial standards, approval workflows, and content lifecycle management.
+Led content governance initiative, evaluated vendors, sought executive sponsor, lead team of content leaders across writing teams to develop and centralize product content standards on clarity, grammer, inclusive content, accessibility, and tone.
 
-**Product Launch Content Strategy**
-Developed comprehensive content strategy for product launches, including messaging frameworks, content roadmaps, and coordinated documentation and marketing content.
+**Migration of Technical Content Operations from a Subsidiary Company**
+Conducted analysis of content operations, content quality and delivery. Make recommendations for converting content to standard structured tech stack prior to translation deadlines for international clients. 
 
-**Customer Education Program**
-Built strategic framework for customer education content, including onboarding guides, training materials, and advanced user content—all aligned with customer success goals.
+**Migration of Knowledge Content Operations from a Subsidiary Company**
+Analyize existing proprietary Knowledge base and learn its capabilities and limitations. Test content conversion and new delivery approaches. 
 
-**Digital Transformation Content Strategy**
-Led content strategy for organizations undergoing digital transformation, helping them restructure content systems, migrate legacy content, and prepare for new platforms.
+**Strategy to Convert Unstructured Content to AI-Ready Structured Content**
+Create translation strategy and conduct content conversion and translation Proof of Concept. 
 
 ## Key Elements of Content Strategy
 
