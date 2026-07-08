@@ -7,35 +7,37 @@ author_profile: false
 
 Through my experience in the B2B space I've learned to develop content strategies for performance support in products that support clients with different organizational needs.
 
-## What is Content Strategy?
+## My Content Strategy Approach
 
-Content strategy is the discipline of planning the creation, management, and governance of content. A strong content strategy aligns content with business goals, serves user needs, and creates a sustainable system for managing content over time.
+When planning how to update content processes, or onboard new teams with existing sets of conent to new tools and processes, an understanding of the complete worfklow, from content creation to user experience is important. Change management is an important piece of it because enabling writing teams to do great work confidently and efficiently makes the change process easier. Aligning with business goals and clients needs is essential, and builing strong teams and sustainable processes make it possible to produce high quality content over time.
 
-Good content strategy answers questions like:
-- What content do we need to create?
-- Who is it for, and what do they need to do with it?
-- How do we organize and maintain it?
-- How do we know if it's working?
 
-## My Strategic Approach
+## Process Used For Two Projects
 
-### 1. **Business & User Alignment**
-I start by understanding your business objectives and user needs. Strategic content serves both—it helps you achieve goals while genuinely helping users succeed.
+### 1. **Business and Client Needs**
+I started by understanding the specific company goals for migrating this team and content, and the client needs.
 
-### 2. **Content Audit & Assessment**
-Before creating new strategy, I assess what content exists, how it's performing, where gaps are, and where redundancies or conflicts exist. This becomes the foundation for strategy.
+### 2. **Content Strategy Project Scope**
+Before starting research, I check my understanding of the boundaries of what should be analyzed. Sometimes, the research takes me to a boundary, and I can then revisit the boundary with Project Leaders.
 
-### 3. **Audience & Persona Research**
-Who are your users? What are their needs, questions, and pain points? I develop detailed audience understanding to guide all content decisions.
+### 3. **Audience and Use Analysis**
+I meet with the writing team, subject matter experts, support teams to understand the various audiences that use the content, where they use it, which experiences they access it through, and review any usage analytics, if available. 
 
-### 4. **Content Planning & Roadmap**
-Strategy becomes actionable through planning. I create content roadmaps that prioritize what to create, when, and why—aligned with both business timelines and user needs.
+### 4. **Content Inventory**
+Establishing a report with the content teams is key, they are the best people to learn from as far as what their deliverables are. I generally ask writing team leads to provide an inventory, with deliverble frequence, where the source files are, the product each content deliverable supports, the content authoring tools, and the experiences it's delivered to. We review it and collaborate on ensuring this document tells the story of what they develop and maintain. This also serves as a tool later to use to prioritize which sets of content get converted first, or which one to use for a proof of concept, if necessary. 
 
-### 5. **Governance & Operations**
-Strategy only works if it's maintainable. I establish governance frameworks, editorial guidelines, and processes that ensure content stays aligned, current, and effective over time.
+### 5. **Content Quality Evaluation**
+Samples of content are then evaluated for alignment with company standards on style, tone, voice, inclusion, accessibility, terminology. Dates of last revision are also noted and added to the Content Inventory tracker. In the cases where the content team is from a recently acquired company, it will not of course be compliant with centralized standards, but I review it for its consistency and clarity, and how modular it is. 
 
-### 6. **Measurement & Optimization**
-How do you know if your content strategy is working? I develop metrics and measurement frameworks that help you understand what's working and where to optimize.
+### 6. **Structural Analysis: Tools, Processes, Output Types, Release Processes, User Experiences**
+I review the current content operations tool stack and how and where the content is delivered and used by clients or internal teams.
+
+### 7. **Risk Analysis**
+Any risk to the company by delaying or not migrating the content is identified. 
+
+### 7. **Recommendatios**
+I capture both short-term and long-term stategies. This can help a company mitigate immediate risks without committing to start a large project right away. 
+
 
 ## Strategic Content Areas
 
@@ -74,4 +76,4 @@ Create translation strategy and conduct content conversion and translation Proof
 
 ---
 
-Ready to develop or refine your content strategy? [Let's connect](mailto:nbdurkee@gmail.com).
+If you'd like to discuss how a content strategy based in structured content, responsible governance, and sustainable operations, [Let's connect](mailto:nbdurkee@gmail.com).
