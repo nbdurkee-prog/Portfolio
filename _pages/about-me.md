@@ -45,6 +45,12 @@ I used the following tools to build this portfolio website:
 - AI Ethics & Responsible Content Practices
 - Content Tools: MadCap IXIA CCMS and Flare, Oxygen XML, Adobe Photoshop
 
+## Emerging Trends I'm Following
+
+- **AI & Responsible Content** – How to use AI responsibly while maintaining trustworthiness
+- **Inclusive Content Design** – Content accessible to all users, regardless of ability
+- **Content & Experience** – How content strategy connects to overall user experience
+- **Knowledge Management** – Systems for organizing and preserving organizational knowledge
 ---
 
 Interested in learning more about specific areas of my work? Explore my portfolio sections to see examples and case studies.
