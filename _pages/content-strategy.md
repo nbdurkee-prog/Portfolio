@@ -7,7 +7,7 @@ author_profile: false
 
 Through my experience in the B2B space I've learned to develop content strategies for performance support in products that support clients with different organizational needs.
 
-## My Content Strategy Approach
+## Content Strategy 
 
 When planning how to update content processes, or onboard writing teams with existing sets of content to new tools and processes, an understanding of the complete worfklow, from content creation to user experience, is important.
 
@@ -16,7 +16,7 @@ When planning how to update content processes, or onboard writing teams with exi
 - Builing strong rapport with and sustainable processes make it possible to produce high quality content over time.
 
 
-## Process Used For Two Projects
+## Use Case: Content Strategy Approach Used For Projects in this Portfolio
 
 ### 1. **Business and Client Needs**
 I started by understanding the specific company goals for migrating this team and content, and the client needs.
@@ -43,7 +43,7 @@ Any risk to the company by delaying or not migrating the content is identified.
 I capture both short-term and long-term stategies. This can help a company mitigate immediate risks without committing to start a large project right away. 
 
 
-## Strategic Content Areas
+## Strategic Content Project: Migrate Product Help and PDF Content from a Subsidiary Company to Central Content Operations
 
 **Enterprise Content Governance**
 Led content governance initiative, evaluated vendors, sought executive sponsor, lead team of content leaders across writing teams to develop and centralize product content standards on clarity, grammer, inclusive content, accessibility, and tone.
@@ -57,7 +57,7 @@ Analyize existing proprietary Knowledge base and learn its capabilities and limi
 **Strategy to Convert Unstructured Content to AI-Ready Structured Content**
 Create translation strategy and conduct content conversion and translation Proof of Concept. 
 
-## Key Elements of Content Strategy
+## Strategic Content Project: Migrate Knowledge Content from a Subsidiary Company to Central Content Operations
 
 **Content Vision** – Where is your content heading? What role does it play in your organization's future?
 
