@@ -43,7 +43,7 @@ Any risk to the company by delaying or not migrating the content is identified.
 I capture both short-term and long-term stategies. This can help a company mitigate immediate risks without committing to start a large project right away. 
 
 
-## Project: Tech Writing Team and Content Operations
+## Project: Tech Writing Operations Migration
 
 **The Challenge & Current Operations**
 - The company had been recently acquired and the Tech Writing Team and their deliverables had been left out of the change management process.
@@ -68,7 +68,7 @@ I capture both short-term and long-term stategies. This can help a company mitig
 - Develop Help and PDF output types so client content deliverables could be generated.
 
 
-## Project: Knowledgebase Community, Internal and Client-facing
+## Project: Knowledge Management Migration
 
 **The Challenge & Current Operations** 
 - The knowledgebase had been rolled out quickly and the training and content migration was never completed.
