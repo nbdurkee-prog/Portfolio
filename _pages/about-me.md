@@ -9,13 +9,13 @@ Hi! I'm Nancy Durkee. I work at the intersection of writing, information archite
 
 ## My Background
 
-With a background in writing, learning, user experience, and information architecture, I've worked to help organizations communicate clearly to support clients working in products. Content is the voice of a company's product, and ensuring that voice is clear, supportive, helpful and inclusive is how I envision my work. My expertise spans:
+With a background in writing, learning, user experience, and information architecture, I've worked to help organizations communicate clearly to support clients working in products. Content is the voice of a company's product, and ensuring that voice is clear, supportive, helpful and inclusive is how I envision my work. My expertise includes:
 
-- **Content Strategy** – Developing long-term content visions and governance frameworks
+- **Content Strategy** – Developing content workflows that support business needs governance frameworks
 - **Information Architecture** – Organizing complex information into intuitive systems
-- **User-Centered Content Design** – Creating documentation and help systems that users actually want to use
-- **Trustworthy Content** – Ensuring content is trustworthy, transparent, and designed with users in mind
-- **AI Ready, Responsible Content** – Ensuring content is trustworthy, transparent, and designed with users in mind
+- **User Experience** – Creating UX content and contextgual Help content that supports the client experience
+- **Trustworthy Content** – Ensuring we build the content development processes for accurate, reusable, aligned content
+- **AI Ready, Responsible Content** – Ensuring high quality, structured, semantic content prepares content for AI use
   
 ## Intentional Content
 
