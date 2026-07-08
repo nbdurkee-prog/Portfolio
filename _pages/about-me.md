@@ -21,13 +21,14 @@ With a background in writing, learning, user experience, and information archite
 
 A common thread through my work is a passion to help people learn. I believe strongly that content should be accessible and inclusive. Clear content whether in a product or a knowledge base engages people and supports them as they work. 
 
-## My Philosophy
+## About this Porfolio Website
 
-Every piece of content should:
-- **Serve users first** – Answer real questions, solve real problems
-- **Be inclusive** – Written and organized so everyone can understand it
-- **Build trust** – Be transparent, accurate, and reliable
-- **Support responsible design** – Consider the broader impact of the content
+I used the following to build this portfolio website:
+- **Github Copilot** – I prompted and iterated
+- **Github** – Code development framework and website hosting
+- **Markdown** - I used Markdown to develop the content and structure
+- **Drawing IO and Apple Keynote** – Diagrams, workflows
+- **Google Gemini** – I searched for how-to information for modifying the website design
 
 ## Skills & Expertise
 
