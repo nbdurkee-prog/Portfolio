@@ -69,3 +69,5 @@ tag_archive:
   path: /tags/
    
 navigation: main
+atom_feed:
+  hide: true
