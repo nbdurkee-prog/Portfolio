@@ -40,9 +40,9 @@ With the capability we needed in hand, I was able to set up several calls with v
 ### 5. **Measure and Improve**
 Trust is not static. I use feedback loops, support insights, and usability signals to improve content continuously.
 
-## Project: Develop Business Case for Enterprise Content Governance
+## Project: Enterprise Content Governance
 
-Led content governance initiative, evaluated vendors, sought executive sponsor, lead team of content leaders across writing teams to develop and centralize product content standards on clarity, grammer, inclusive content, accessibility, and tone.
+Led content governance initiative. Wrote business case, evaluated vendors, sought executive sponsor. Worked cross-functionally across teams with different priorities to collaborate on developing centralized product content standards on clarity, grammer, inclusive content, accessibility, and tone.
 
 
 
