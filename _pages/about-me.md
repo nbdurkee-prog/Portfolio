@@ -43,7 +43,7 @@ I used the following tools to build this portfolio website:
 - Inclusive and Accessible Content (WCAG)
 - Help Center & Technical Documentation Design
 - AI Ethics & Responsible Content Practices
-- Content Tools: MadCap IXIA CCMS and Flare, Oxygen XML, Adobe Photoshop
+- Content Tools: MadCap IXIA CCMS and Flare, Oxygen XML, Adobe Photoshop & Captivate, Synthesia, Github, Markdown
 
 ## Topics I'm Continuously Learning About
 
