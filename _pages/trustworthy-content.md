@@ -26,19 +26,26 @@ Trustworthy content is content users can rely on. It is:
 ## Use Case: No Centralized Content Standards
 
 **Many Standards, Manual Access, Not Kept Current**
+
 Large companies typically have many product teams and many more teams contributing content to products. My company was no exception. I recognized that while we did have teams, sometimes multiple that wrote standards for Inclusive content, or Tone, or Voice, there was not a single central source of truth. This made it time-consuming and challenging for writers to align their content.
 
-### 2. **Interview Leaders**
-I met with leaders who were responsible for content standards in various areas, such as legal, marketing, UX, translation, Brand, Inclusion, and Accessibility. They all docuemented content standards in different ways, using different tools and storying them in various storage areas. They also all had trouble enforcing quality and alignment. They were overburdened with content review requests. Legal teams were concerned with risk around incorrect terminology. The Translation Management team caught jargon that prevented clear translations, marketing and UX were picking up disconnected tone and voice that clients experience. 
+**Interview Leaders**
 
-### 3. **Develop Business Case, Seek Executive Sponsor**
+I met with leaders who were responsible for content standards in various areas, such as legal, marketing, UX, translation, Brand, Inclusion, and Accessibility, and these were some of my findings: 
+- Each area documented content standards differently, using different tools and storying them in various storage areas. -
+- They all had trouble enforcing quality and alignment.
+- They were overburdened with content review requests.
+- Legal teams were concerned with risk around incorrect terminology.
+- The Translation Management team caught jargon that prevented clear translations,
+- Marketing and UX were picking up disconnected tone and voice that clients experience through the user journey. 
+
+**Develop Business Case, Seek Executive Sponsor**
+
 I initially wrote a business case and a new leader joined the company as Chief of Inclusion and she connected me with teams to gain acceptance of the need for a centralized editorial platform. 
 
-### 4. **Evaluate Vendors**
-With the capability we needed in hand, I was able to set up several calls with vendors to learn if their platform would be a fit. 
+**Evaluate Vendors**
 
-### 5. **Measure and Improve**
-Trust is not static. I use feedback loops, support insights, and usability signals to improve content continuously.
+With the capability we needed in hand, I was able to set up several calls with vendors to learn if their platform would be a fit. 
 
 ## Project: Enterprise Content Governance
 
