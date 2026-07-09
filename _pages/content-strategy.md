@@ -13,7 +13,7 @@ When planning how to update content processes, or onboard writing teams with exi
 
 - Change management is an important piece to be aware of along the way because enabling writing teams to do great work confidently and efficiently makes the change process easier.
 - Aligning with business goals and clients needs is essential. 
-- Builing strong rapport with and sustainable processes make it possible to produce high quality content over time.
+- Builing strong rapport with the writing team to understand their work processes, and sustainable processes make it possible to produce high quality content over time.
 
 
 ## My Content Strategy Process  
@@ -28,15 +28,15 @@ Before starting research, I check my understanding of the boundaries of what sho
 I meet with the writing team, subject matter experts, support teams to understand the various audiences that use the content, where they use it, which experiences they access it through, and review any usage analytics, if available. 
 
 ### 4. **Content Inventory**
-Establishing a report with the content teams is key, they are the best people to learn from as far as what their deliverables are. I asked the writing team lead to provide an inventory, with deliverble frequence, where the source files are, the product each content deliverable supports, the content authoring tools, and the experiences it's delivered to. 
+I asked the writing team lead to provide an inventory, with all content deliverables, release cadence, where the source files are, the product each content deliverable supports, the content authoring tools, the output format, and the user experiences it's delivered to. 
 
 I reviewed it and asked questions to ensure this document tells the story of what the team develops and maintains. Because it had the right amount of detail, this document also made it efficient to prioritize which sets of content get converted first with stakeholders.
 
 ### 5. **Content Quality Evaluation**
 Samples of content are then evaluated for alignment with company standards on style, tone, voice, inclusion, accessibility, terminology. Dates of last revision are also noted and added to the Content Inventory tracker. In the cases where the content team is from a recently acquired company, it will not of course be compliant with centralized standards, but I review it for its consistency and clarity, and how modular it is. 
 
-### 6. **Structural Analysis: Tools, Processes, Output Types, Release Processes, User Experiences**
-I review the current content operations tool stack and how and where the content is delivered and used by clients or internal teams.
+### 6. **Structural Analysis**
+I review the current content operations tool stack and how and where the content is delivered and used by clients or internal teams. This includes the authoring and source control tools used, output types, release processes, and user experiences.
 
 ### 7. **Risk Analysis**
 Any risk to the company by delaying or not migrating the content is identified. 
