@@ -25,7 +25,7 @@ Trustworthy content is content users can rely on. It is:
 
 ## Use Case: No Centralized Content Standards
 
-### 1. **Many Standards, Manual Access, Not Kept Current**
+**Many Standards, Manual Access, Not Kept Current**
 Large companies typically have many product teams and many more teams contributing content to products. My company was no exception. I recognized that while we did have teams, sometimes multiple that wrote standards for Inclusive content, or Tone, or Voice, there was not a single central source of truth. This made it time-consuming and challenging for writers to align their content.
 
 ### 2. **Interview Leaders**
