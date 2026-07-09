@@ -43,14 +43,10 @@ Migrated and revised Help content and created a new Help Center with the followi
 - Collaborate with development team on Help integration, decoupled from product releases so writers could update the Help independently
   
 
-**Knowledge Base Restructuring**
-Reorganized an existing knowledge base of 500+ articles, improving findability through better categorization, cross-linking, and updated navigation. User satisfaction with help center increased by 42%.
+**Help Center for Recruitment Product**
+Designed a new Help Center...
 
-**Mobile App Documentation**
-Designed in-app help and mobile-optimized help documentation for a consumer mobile app, ensuring users could find quick answers while using the app.
 
-**API Documentation & Developer Guide**
-Structured technical documentation for developers integrating with an API, including setup guides, code samples, troubleshooting, and best practices.
 
 
 
