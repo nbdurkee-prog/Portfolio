@@ -5,41 +5,43 @@ layout: portfolio
 author_profile: false
 ---
 
-A well-designed help center does more than answer questions—it anticipates user needs, builds confidence, and reduces friction in the customer experience. I design help centers that users actually want to use.
+From content, through metadata, conditional processing to relevant user experiences, I design Help that is easy to use with findable content and that is well structured for search engines and AI.
 
-## The Power of Great Documentation
+## Help Centers
 
-When users encounter a problem, the first place they look for answers should be your help center. Well-structured, clear documentation:
-- **Reduces support burden** – Fewer tickets and support calls
-- **Improves user confidence** – Users feel empowered and capable
-- **Builds trust** – Shows you care enough to explain how things work
-- **Supports user success** – Helps users get maximum value from your product
+I create in-product Help Centers and contextual content that clients can view when they need assistance. Providing Help where clients need it helps them successfully use products and reduces support calls. Enabling clients to be successful on their own is key. 
 
-## My Help Center Design Process
 
-### 1. **User Journey Mapping**
-I identify the moments when users need help—whether they're getting started, troubleshooting an issue, or looking to master advanced features. This shapes what content I create and how I organize it.
+## Help Center Design
+
+### 1. **User Journey Analysis**
+I review the application and identify the features that need support, and structure the content for progressive disclosure, to support users at all levels of capability.
 
 ### 2. **Content Strategy for Help**
-Help content should be comprehensive yet scannable, detailed yet accessible. I develop content frameworks that balance comprehensiveness with clarity.
+I follow standards for authoring, conditional processing, ...
 
-### 3. **Organization & Navigation**
-Users need to find answers fast. I organize help content by:
-- User role and experience level
-- Task or workflow
-- Product features and functionality
-- Common problems and solutions
+### 3. **Navigation and Layout**
+Using metadata, I tag content by audience, product, and region. DITA topic types include task, concept and reference. Types of navigation include:
+- Tiles
+- Search
+- Breadcrumbs
+  
 
-### 4. **Clear, Supportive Writing**
+### 4. **Clear, Inclusive Content aligned with Content Governance**
 Help documentation requires a distinct tone—supportive, clear, and jargon-free. I write with empathy for users who may be frustrated or unfamiliar with your product.
 
-### 5. **Accessibility & Findability**
-Help is only useful if users can find it. I optimize for search, create multiple entry points, and ensure content is accessible to all users.
+### 5. **Findability**
+I ensure the content is mapped to application pages so users quickly get the help most relevant.
 
 ## Sample Help Center Projects
 
-**SaaS Product Help Center Launch**
-Created a comprehensive help center for a B2B SaaS platform from scratch, including 150+ articles organized by user role and workflow. Result: 35% reduction in onboarding support requests.
+**Surface Knowledge Contextually, and Create Help Center for Analytics Product**
+Migrated and revised Help content and created a new Help Center with the following requirements:
+- Multliple ways for clients to find information
+- Tiles homepage reflecting UX design guidelines
+- Translate conent into 14 languages, translate UX strings
+- Collaborate with development team on Help integration, decoupled from product releases so writers could update the Help independently
+  
 
 **Knowledge Base Restructuring**
 Reorganized an existing knowledge base of 500+ articles, improving findability through better categorization, cross-linking, and updated navigation. User satisfaction with help center increased by 42%.
@@ -50,13 +52,7 @@ Designed in-app help and mobile-optimized help documentation for a consumer mobi
 **API Documentation & Developer Guide**
 Structured technical documentation for developers integrating with an API, including setup guides, code samples, troubleshooting, and best practices.
 
-## What Makes Great Help Content
 
-- **Task-focused** – Organized around what users are trying to do
-- **Scannable** – Short sentences, clear headings, visual hierarchy
-- **Accurate** – Tested with real product, kept up-to-date
-- **Accessible** – Plain language, inclusive design, multiple formats
-- **Discoverable** – Optimized for search, linked from relevant places in product
 
 ---
 
