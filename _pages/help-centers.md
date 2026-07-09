@@ -35,7 +35,8 @@ I ensure the content is mapped to application pages so users quickly get the hel
 
 ## Sample Help Center Projects
 
-**Surface Knowledge Contextually, and Create Help Center for Analytics Product**
+**Create Help Center for Analytics Product**
+
 Migrated and revised Help content and created a new Help Center with the following requirements:
 - Multliple ways for clients to find information
 - Tiles homepage reflecting UX design guidelines
