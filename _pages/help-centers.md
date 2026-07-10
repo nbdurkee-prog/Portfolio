@@ -9,7 +9,7 @@ From content, through metadata, conditional processing to relevant user experien
 
 ## Help Centers
 
-I create in-product Help Centers and contextual content that clients can view when they need assistance. Providing Help where clients need it helps them successfully use products and reduces support calls. Enabling clients to be successful on their own is key. 
+I create in-product Help Centers and contextual content that clients can view when they need assistance. Providing Help where clients need it helps them successfully use products and reduces support calls. Enabling clients to be successful on their own is key. I use the Ixiasoft CCMS native output generator, and customize the webhelp plugin to create HTML5 resposive Help Centers. This way, a single source of truth is kept in the content management system, and can be used for other outputs.
 
 
 ## Help Center Design
