@@ -21,13 +21,12 @@ Using DITA (Darwin Information Typing Architecture) for structured, semantic con
 ![DITA Content Lifecycle Workflow]({{ site.baseurl }}/assets/images/contentflow.jpg)
 
 This workflow demonstrates:
-- **Authoring** in Ixia Web Author with DITA XML
-- **Metadata** tagging to enable single-sourcing
-- **Taxonomy** tagging to enable findability in Search and more accurate conversational AI
-- **Tranlsation Workflow Management** CMS keeps track of which files have been translated to save costs
+- **Authoring** in Ixia Web Author (using Oxygen XML), a DITA-based writing and content management platform.
+- **Metadata** tagging to enable single-sourcing 
+- **Taxonomy** tagging to enable findability in Search, and making content AI-ready
+- **Tranlsation Workflow Management** - to keep track of which files have been translated to save costs
 - **DITAVAL Filtering** to create audience-specific content
 - **Omni-Channel Publishing** Generating multiple output types from a single source of truth
-
 
 ## Project Summaries 
 
@@ -37,7 +36,6 @@ Migrated and revised Help content and created a new Help Center with the followi
 - Tiles homepage reflecting UX design guidelines
 - Translate conent into 14 languages, translate UX strings
 - Collaborate with development team on Help integration, decoupled from product releases so writers could update the Help independently
-- 
 
 **Redesign UX for Benchmarks Module of Analytics**
 Collaborate with UX architect to redesign the Benchmark features that support clients to more easily: Use Benchmark explorers to analyze compensation or see what a competitive salary looks like. View time to fill, turnover rates, and demographics. Look at labor markets or compare yourself to the labor market.
@@ -49,10 +47,10 @@ Collaborate with UX architect to redesign the Benchmark features that support cl
 - Skills Explorer - Use Skills Explorer to learn which job titles match the skills you need. Get suggested skills relevant to your talent search. Discover trending job titles that best match the skill sets you need, view market salaries realated to the skills you require.
 - Turnover probability Explorer - Turnover probability explorer provides insights to help you keep top talent from leaving, view concentrations of turnover risk by managerm job, location, take actions to retain top talent or plan for replacements
 - Filter on industry, revenue, and employee siaze, jobs, salaried or hourly pay types, and geographic location to include only specific types of organizations and employees.
-- 
+
 
 **Help Center for Recruitment Product**
-Designed a new Help Center...
+Designed a new Help Center for recruiting product content. Created css, designed navigation UX, and deployment process.
 
 **Make Help Content used to publish Help AI-Ready**
 Analyzed existing Help content written for product...
