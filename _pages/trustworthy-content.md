@@ -27,7 +27,9 @@ Trustworthy content is content users can rely on. It is:
 
 **Many Standards, Manual Access, Not Kept Current**
 
-Large companies typically have several product teams and multiple teams contributing content to products. My company was no exception. I recognized we also had multiple teams that wrote standards for inclusive content, tone, voice, terminology, and style guidance. On my team, it was challenging for product help content writers to find consistency when content standards were documented on multiple sites. It was not efficient for writers when they'd encounter standards documented differently about the same content use cases, and resolutions were often lost in chats. There was not a single central source of truth. This made it time-consuming and challenging for writers to align their content, and did not make for consistent user experiences.
+Large companies typically have several product teams and multiple teams contributing content to products. My company was no exception. I recognized we also had multiple teams that wrote standards for inclusive content, tone, voice, terminology, and style guidance. 
+
+On my team, it was challenging for product help content writers to find consistency when content standards were documented on multiple sites. It was not efficient for writers when they'd encounter standards documented differently about the same content use cases, and resolutions were often lost in chats. There was not a single central source of truth. This made it time-consuming and challenging for writers to align their content, and did not make for consistent user experiences.
 
 **Interview Leaders**
 
