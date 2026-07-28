@@ -32,16 +32,16 @@ Large companies typically have many product teams and many more teams contributi
 **Interview Leaders**
 
 I met with leaders who were responsible for content standards in various areas, such as legal, marketing, UX, translation, Brand, Inclusion, and Accessibility, and these were some of my findings: 
-- Each area documented content standards differently, using different tools and storying them in various storage areas. -
-- They all had trouble enforcing quality and alignment.
+- Each area documented content standards differently, using different tools and storying them in various storage areas.  
+- They all had challenges enforcing content quality and alignment with standards.
 - They were overburdened with content review requests.
 - Legal teams were concerned with risk around incorrect terminology.
-- The Translation Management team caught jargon that prevented clear translations,
+- The Translation Management team caught jargon that prevented clear translations.
 - Marketing and UX were picking up disconnected tone and voice that clients experience through the user journey. 
 
 **Develop Business Case, Seek Executive Sponsor**
 
-I initially wrote a business case and a new leader joined the company as Chief of Inclusion and she connected me with teams to gain acceptance of the need for a centralized editorial platform. 
+I wrote a business case to select and implement an enterprise content governance platform. The work was championed by the Chief of Product Inclusion. We met with leaders and the increased awareness resonated through the AI development organization. We were able to implement a platform for content developers creating UX, learning, and help and support content.
 
 **Evaluate Vendors**
 
