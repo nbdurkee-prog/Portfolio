@@ -47,7 +47,7 @@ I used the following tools to build this portfolio website:
 
 ## Topics I'm Continuously Learning About
 
-- **Responsible AI** – How to make Help and Knowledge content AI-ready, with writers in the loop. I recently wrote about this, [Context for Claude, the AI and also the Artist] (https://www.linkedin.com/pulse/context-claude-ai-also-artist-nancy-durkee/)
+- **Responsible AI** – How to make Help and Knowledge content AI-ready, with writers in the loop. I recently wrote about this, [Context for Claude, the AI and also the Artist](https://www.linkedin.com/pulse/context-claude-ai-also-artist-nancy-durkee/)
 - **Inclusive Content Design** – User experiences that create seamless belonging
 - **Trustworthy Content** – Content Governance
 - **Semantic Layer** – Knowledge Graphs as a deterministic approach for providing relevant context 
