@@ -5,7 +5,7 @@ layout: portfolio
 author_profile: false
 ---
 
-Drawing on my background in structured content, I'm able to fluently envision information architecture strategies that surface contextual information in the flow of work, and build Help Centers that suit different user experiences. I use the same strategies ensure content is prepared sufficiently for responsible AI use. 
+Drawing on my background in structured content, I envision information architecture strategies that surface contextual information in the flow of work, and build Help Centers that suit different user experiences. I use the same strategies ensure content is prepared sufficiently for responsible AI use. 
 
 ## Information Architecture  
 
@@ -24,7 +24,7 @@ This workflow demonstrates:
 - **Authoring** in Ixia Web Author (using Oxygen XML), a DITA-based writing and content management platform.
 - **Metadata** tagging to enable single-sourcing 
 - **Taxonomy** tagging to enable findability in Search, and making content AI-ready
-- **Tranlsation Workflow Management** - to keep track of which files have been translated to save costs
+- **Translation Workflow Management** - to keep track of which files have been translated to save costs
 - **DITAVAL Filtering** to create audience-specific content
 - **Omni-Channel Publishing** Generating multiple output types from a single source of truth
 
@@ -53,7 +53,7 @@ Collaborate with UX architect to redesign the Benchmark features that support cl
 Designed a new Help Center for recruiting product content. Created css, designed navigation UX, and deployment process.
 
 **Make Help Content used to publish Help AI-Ready**
-Analyzed existing Help content written for product...
+Analyzed existing contextual Help content and adapted for AI use by applying taxonomy and metadata. 
 
 **Unified Taxonomy Across Different Teams**
 When onboarding a new team, the deliverables would need to not only become in-product Help, but also be used in SalesForce Knowledge and a client-facing knowledge portal. I needed to analyize the taxonomy needs and across teams and ensure the content would be findable in all user experiences.
