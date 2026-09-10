@@ -69,7 +69,10 @@ I capture both short-term and long-term strategies. This can help a company miti
 - Translate content.
 - Develop Help and PDF output types so client content deliverables could be generated.
 
-
+**Results**
+- Developed content strategy to ensure regulatory compliance and content readiness for Canadian market entry, enabling pipeline
+  expansion across a ~$490M revenue market to meet sales deadlines within 90 days. Train writing teams in tools and content operations to maintain content.
+  
 ## Project: Knowledge Management Migration
 
 **The Challenge & Current Operations** 
@@ -87,6 +90,7 @@ I capture both short-term and long-term strategies. This can help a company miti
 - Identify the workflow needs for each team.
 - For example, for the Support Team, long-term goal: migrate Salesforce information to Company's main org.
 - Convert content to DITA content stack and create autopublishing to the Salesforce org so Support people find the information they need in Salesforce Knowledge.
+ 
 
 
 
