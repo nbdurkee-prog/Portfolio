@@ -30,14 +30,16 @@ This workflow demonstrates:
 
 ## Project Summaries 
 
-**Surface Knowledge Contextually, and Create Help Center for People Analytics Product**
+**Surface Knowledge Contextually, and Create Help Center for People Analytics Product** 
+
 Migrated and revised Help content and created a new Help Center with the following requirements:
 - Multiple ways for clients to find information
 - Tiles homepage reflecting UX design guidelines
 - Translate content into 14 languages, translate UX strings
 - Collaborate with development team on Help integration, decoupled from product releases so writers could update the Help independently
 
-**Redesign UX for Benchmarks Module of Analytics**
+**Redesign UX for Benchmarks Module of Analytics** 
+
 Collaborate with UX architect to redesign the Benchmark features and create UX content that supports clients to more easily: 
 - Compare their business to other companies in their industry.
 - Review annual compensation and determine the salary to include as part of a job offer.
@@ -49,16 +51,20 @@ Collaborate with UX architect to redesign the Benchmark features and create UX c
 - Get insights to help keep top talent from leaving, and view concentrations of turnover risk.
   
 
-**Help Center for Recruitment Product**
+**Help Center for Recruitment Product** 
+
 Designed a new Help Center for recruiting product content. Created css, designed navigation UX, and deployment process.
 
-**Make Help Content used to publish Help AI-Ready**
-Analyzed existing contextual Help content and adapted for AI use by applying taxonomy and metadata. 
+**AI-Ready Content Operations** 
 
-**Unified Taxonomy Across Different Teams**
+Analyzed existing contextual Help content and adapted for AI use through structured semantic authoring, and integrating  taxonomy and metadata. 
+
+**Unified Taxonomy Across Different Teams** 
+
 When onboarding a new team, the deliverables would need to not only become in-product Help, but also be used in Salesforce Knowledge and a client-facing knowledge portal. I needed to analyze the taxonomy needs and across teams and ensure the content would be findable in all user experiences.
 
-## Resources & Tools I Use
+## Resources & Tools I Use 
+
 
 - Miro for Information Architecture modeling and documentation
 - Taxonomy and metadata development - controlled vocabularies 
