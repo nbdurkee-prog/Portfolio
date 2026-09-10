@@ -35,13 +35,13 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com"
+      url: "https://github.com/nbdurkee-prog"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com"
+      url: "https://github.com/nbdurkee-prog"
 
 defaults:
   - scope:
