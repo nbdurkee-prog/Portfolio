@@ -90,6 +90,10 @@ I capture both short-term and long-term strategies. This can help a company miti
 - Identify the workflow needs for each team.
 - For example, for the Support Team, long-term goal: migrate Salesforce information to Company's main org.
 - Convert content to DITA content stack and create autopublishing to the Salesforce org so Support people find the information they need in Salesforce Knowledge.
+
+**Results** 
+- Identified duplicate content sources across Support and Implementation teams and migrated them into a single content operations tech stack, eliminating 80% of duplicate content sources within 6 months.
+- This gave the Support team access to accurate content, reducing time spent searching for answers during client cases.
  
 
 
