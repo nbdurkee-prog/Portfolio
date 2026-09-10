@@ -9,7 +9,7 @@ Drawing on my background in structured content, I envision information architect
 
 ## Information Architecture  
 
-I have experience onboarding writing teams to a centralized, AI-ready content operations stack, teaching them structured authoring standards (DITA) and defined taxonomy, metadata, and omni-channel publishing processes. I enjoy building content governance so every writer can create inclusive, accessible, and clear content, consistently.
+I have experience onboarding writing teams to a centralized, AI-ready content operations stack, teaching them structured authoring standards (DITA) and defined taxonomy and metadata, and omni-channel publishing processes. I enjoy building content governance so every writer can create inclusive, accessible, and clear content, consistently.
 
 Structured, semantic authoring is fundamental to creating content that can be reused and tailored to various client needs, and it is also a great foundation for AI-ready content.
 
@@ -32,20 +32,20 @@ This workflow demonstrates:
 
 **Surface Knowledge Contextually, and Create Help Center for People Analytics Product**
 Migrated and revised Help content and created a new Help Center with the following requirements:
-- Multliple ways for clients to find information
+- Multiple ways for clients to find information
 - Tiles homepage reflecting UX design guidelines
-- Translate conent into 14 languages, translate UX strings
+- Translate content into 14 languages, translate UX strings
 - Collaborate with development team on Help integration, decoupled from product releases so writers could update the Help independently
 
 **Redesign UX for Benchmarks Module of Analytics**
-Collaborate with UX architect to redesign the Benchmark features and create UX content that support clients to more easily: 
+Collaborate with UX architect to redesign the Benchmark features and create UX content that supports clients to more easily: 
 - Compare their business to other companies in their industry.
 - Review annual compensation and determine the salary to include as part of a job offer.
 - Explore annual compensation and pay rates by reviewing jobs across industries and locations.  
 - Benchmark by industries and locations to find the best talent and hire faster. 
 - Get organizational benchmarks to determine how headcount compares with the headcount of similar companies.  
 - Learn which job titles match the skills they need and get suggested skills relevant to a talent search.
-- Discover trending job titles that best match the skill sets needed, view market salaries realated to the skills required.
+- Discover trending job titles that best match the skill sets needed, view market salaries related to the skills required.
 - Get insights to help keep top talent from leaving, and view concentrations of turnover risk.
   
 
@@ -56,7 +56,7 @@ Designed a new Help Center for recruiting product content. Created css, designed
 Analyzed existing contextual Help content and adapted for AI use by applying taxonomy and metadata. 
 
 **Unified Taxonomy Across Different Teams**
-When onboarding a new team, the deliverables would need to not only become in-product Help, but also be used in SalesForce Knowledge and a client-facing knowledge portal. I needed to analyize the taxonomy needs and across teams and ensure the content would be findable in all user experiences.
+When onboarding a new team, the deliverables would need to not only become in-product Help, but also be used in Salesforce Knowledge and a client-facing knowledge portal. I needed to analyze the taxonomy needs and across teams and ensure the content would be findable in all user experiences.
 
 ## Resources & Tools I Use
 
