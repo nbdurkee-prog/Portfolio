@@ -5,7 +5,7 @@ layout: portfolio
 author_profile: false
 ---
 
-From content, through metadata, conditional processing to relevant user experiences, I design Help that is easy to use with findable content and that is well structured for search engines and AI.
+From content, through metadata, conditional processing, and relevant user experiences, I design Help that is easy to use with findable content and that is well structured for search engines and AI.
 
 ## Help Centers
 
@@ -18,7 +18,9 @@ I create in-product Help Centers and contextual content that clients can view wh
 I review the application and identify the features that need support, and structure the content for progressive disclosure, to support users at all levels of capability.
 
 ### 2. **Content Strategy for Help**
-I follow standards for authoring, conditional processing, ...
+I build intuitive, trustworthy knowledge systems that enable workforce productivity and provide accurate data for AI discovery.
+I blend a strategist’s with complex information architecture. I transform content, optimizing for clarity, inclusive governance,
+and AI discoverability, preparing teams for the future of work.
 
 ### 3. **Navigation and Layout**
 Using metadata, I tag content by audience, product, and region. DITA topic types include task, concept and reference. Types of navigation include:
@@ -38,14 +40,14 @@ I ensure the content is mapped to application pages so users quickly get the hel
 **Create Help Center for Analytics Product**
 
 Migrated and revised Help content and created a new Help Center with the following requirements:
-- Multliple ways for clients to find information
+- Multiple ways for clients to find information
 - Tiles homepage reflecting UX design guidelines
-- Translate conent into 14 languages, translate UX strings
+- Translate content into 14 languages, translate UX strings
 - Collaborate with development team on Help integration, decoupled from product releases so writers could update the Help independently
   
 
 **Help Center for Recruitment Product**
-Designed a new Help Center...
+Designed innovative Help center, customizing UX navigation and website design based in response to client requests for improved user experience within 6 weeks.
 
 
 
