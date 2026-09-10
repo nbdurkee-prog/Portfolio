@@ -33,7 +33,7 @@ Using metadata, I tag content by audience, product, and region. DITA topic types
 Help documentation requires a distinct tone—supportive, clear, and jargon-free. I write with empathy for users who may be frustrated or unfamiliar with your product.
 
 ### 5. **Findability**
-I ensure the content is mapped to application pages so users quickly get the help most relevant.
+I ensure the content is mapped to application pages so users get contextual support as they work.
 
 ## Sample Help Center Projects
 
@@ -47,7 +47,7 @@ Migrated and revised Help content and created a new Help Center with the followi
   
 
 **Help Center for Recruitment Product**
-Designed innovative Help center, customizing UX navigation and website design based in response to client requests for improved user experience within 6 weeks.
+Designed innovative Help Center, customizing UX navigation and website design based in response to client requests for improved user experience within 6 weeks.
 
 
 
