@@ -86,7 +86,7 @@ I capture both short-term and long-term strategies. This can help a company miti
 **Recommended Content Strategy** 
 - Identify the workflow needs for each team.
 - For example, for the Support Team, long-term goal: migrate Salesforce information to Company's main org.
-- Convert content to DITA content stack and create autopublishing to the Salesforce org so Support people find the information they need in SalesForce Knowledge.
+- Convert content to DITA content stack and create autopublishing to the Salesforce org so Support people find the information they need in Salesforce Knowledge.
 
 
 
