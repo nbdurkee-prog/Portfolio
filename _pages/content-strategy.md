@@ -9,11 +9,11 @@ I'm summarizing two projects I led, developing content strategies to bring writi
 
 ## Content Strategy - Guiding Principles
 
-When planning how to update content processes, or onboard writing teams with existing sets of content to new tools and processes, an understanding of the complete worfklow, from content creation to user experience, is important.
+When planning how to update content processes, or onboard writing teams with existing sets of content to new tools and processes, an understanding of the complete workflow, from content creation to user experience, is important.
 
 - Change management is an important piece to be aware of along the way because enabling writing teams to do great work confidently and efficiently makes the change process easier.
-- Aligning with business goals and clients needs is essential. 
-- Builing strong rapport with the writing team to understand their work processes, and sustainable processes make it possible to produce high quality content over time.
+- Aligning with business goals and client needs is essential. 
+- Building strong rapport with the writing team to understand their work processes, and sustainable processes make it possible to produce high-quality content over time.
 
 
 ## My Content Strategy Process  
@@ -41,8 +41,8 @@ I review the current content operations tool stack and how and where the content
 ### 7. **Risk Analysis**
 Any risk to the company by delaying or not migrating the content is identified. 
 
-### 8. **Recommendatios**
-I capture both short-term and long-term stategies. This can help a company mitigate immediate risks without committing to start a large project right away. 
+### 8. **Recommendations**
+I capture both short-term and long-term strategies. This can help a company mitigate immediate risks without committing to start a large project right away. 
 
 
 ## Project: Tech Writing Operations Migration
@@ -57,7 +57,7 @@ I capture both short-term and long-term stategies. This can help a company mitig
 **Relevant Findings**
 - There was no translation process, all the content was in US English.
 - Without tools to support translation management or expertise, it would be expensive to continue their operations.
-- Content was not single-sourced, so huge sets of content not reflective of audience type made for too much irrelevant conten in user experiences that clients had to wade through.
+- Content was not single-sourced, so huge sets of content not reflective of audience type made for too much irrelevant content in user experiences that clients had to wade through.
 - Content was not structured and not AI-ready for our company's AI conversational experiences.
 - There was no editorial platform for content governance.
 - The most important finding was the Global Sales team had already sold this product as part of several deals in Canada, making the requirement to translate the Help content into Canadian French a short-term mission-critical need to mitigate legal risk and brand damage in Canada.
@@ -74,8 +74,8 @@ I capture both short-term and long-term stategies. This can help a company mitig
 
 **The Challenge & Current Operations** 
 - The knowledgebase had been rolled out quickly and the training and content migration was never completed.
-- Teams like, Customer Support, Training, and Implementation, were still authoring in their former tools storing content in Sharepoint and the company's isolated org of SalesForce.
-- The Knowlege Manager was re-creating content that teams handed off to her rather than authoring in it.
+- Teams like, Customer Support, Training, and Implementation, were still authoring in their former tools storing content in SharePoint and the company's isolated org of Salesforce.
+- The Knowledge Manager was re-creating content that teams handed off to her rather than authoring in it.
 
 **Relevant Findings** 
 - Knowledge was out of date that associates and clients were accessing.
