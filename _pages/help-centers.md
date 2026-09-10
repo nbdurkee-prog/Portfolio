@@ -50,7 +50,7 @@ Migrated and revised Help content and created a new Help Center with the followi
 - Designed innovative Help Center, customizing UX navigation and website design based in response to client requests for improved user experience within 6 weeks.
 - Single-sourced content to create contextual help personalized for the hiring manager, recruiter, implementation associate, and candidate user experiences.
 
-**Help Center for Health care product**. 
+**Help Center for Dietary Management System** 
 - Owned end-to-end content strategy and technical writing for two embedded help platforms supporting HealthTouch®, a hospital food service and patient dietary management system used across 500+ healthcare facilities — from community hospitals to large systems with 1,000+ beds.
 - Translated complex dietary safety requirements into clear, actionable guidance for hospital staff managing in-room dining and food production workflows.
 
